@@ -1,0 +1,55 @@
+\documentclass[11pt,a4paper]{article}
+\newcounter{magicrownumbers}
+\newcommand\rownumber{\stepcounter{magicrownumbers}\arabic{magicrownumbers}}
+\newcommand \tab[1][1cm]{\hspace*{#1}}
+\usepackage{geometry}
+\usepackage{enumitem}
+\usepackage{multicol}
+\geometry{left=20mm,right=20mm,top=20mm,bottom=20mm}
+\linespread{1.1}
+\begin{document}
+
+\begin{center}
+{\LARGE{\textbf{POST MERGER ANALYSIS OF CUSTOMER SATISFACTION AND LOYALTY - A STUDY ON RECENT MERGER OF ASSOCIATES OF A POPULAR BANK WITH ITSELF}}}\\
+\end{center}
+Age:\\
+Gender:\\
+Bank Name:\\
+Year of account opening:\\
+Location:\\
+\noindent\makebox[\linewidth]{\rule{\paperwidth}{0.4pt}}
+{\fontfamily{pbk}\selectfont
+\section*{SECTION 1}
+\textbf{Please indicate to what extent you agree with the following statements.} \\
+1 = Not at all, 2 = Somewhat, 3 = Neutral, 4 = Some extent, 5 = Very great extent\\
+\emph {(Tick in the appropriate box)}\\
+\begin{minipage}{\textwidth}
+
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline \multicolumn{2}{|c|}{} & 1 & 2 & 3 & 4 & 5\\
+\hline \rownumber & I feel happy about the merger & \tab & \tab & \tab & \tab & \tab \\
+\hline \rownumber & I feel pleased about the merger & \tab & \tab & \tab & \tab & \tab \\
+\hline \rownumber & I feel disappointed about the merger & \tab & \tab & \tab & \tab & \tab \\
+\hline \rownumber & I feel violated about the merger & \tab & \tab & \tab & \tab & \tab \\
+\hline \rownumber & I feel grateful about the merger & \tab & \tab & \tab & \tab & \tab \\
+\hline \rownumber & To what extent does the bank provide X  & \tab & \tab & \tab & \tab & \tab \\
+\hline \rownumber & Is X efficiently provided by bank ? & \tab & \tab & \tab & \tab & \tab \\
+\hline \rownumber & To what extent do you expect X from the bank? & \tab & \tab & \tab & \tab & \tab \\
+\hline
+\end{tabular}
+
+\end{minipage}
+\begin{minipage}{\textwidth}
+\tab \\ 
+\textbf { Specify some expectations you had while opening the account or the promises made by the bank and rate them. }\\
+1 = Not at all fulfilled, 2 = Something was fullfilled, 3 = Neutral, 4 = Majority of things was fulfilled, 5 = Almost every thing was fullfilled\\
+\emph {(Tick in the appropriate box)}\\
+\end{minipage}
+\newpage
+\section*{SECTION 2}
+\textbf{Please rate the following statements.}\\
+1 = Very High, High\\
+5 = Neutral,\\
+8 = High, 9 = Very low
+}
+\end{document}
