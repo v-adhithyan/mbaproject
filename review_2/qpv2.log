@@ -1,13 +1,13 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300 64-bit) (preloaded format=pdflatex 2017.9.28)  13 JAN 2018 12:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300 64-bit) (preloaded format=pdflatex 2017.9.28)  23 JAN 2018 16:41
 entering extended mode
-**B:/MBA/fyp/review_2/qpv2.tex
-(B:/MBA/fyp/review_2/qpv2.tex
+**./qpv2.tex
+(qpv2.tex
 LaTeX2e <2017-04-15>
 Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo"
-File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@section=\count80
@@ -21,8 +21,6 @@ File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-\c@magicrownumbers=\count87
-
 ("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
@@ -40,9 +38,9 @@ Package ifvtex Info: VTeX not detected.
 ("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count88
-\Gm@cntv=\count89
-\c@Gm@tempcnt=\count90
+\Gm@cnth=\count87
+\Gm@cntv=\count88
+\c@Gm@tempcnt=\count89
 \Gm@bindingoffset=\dimen103
 \Gm@wd@mp=\dimen104
 \Gm@odd@mp=\dimen105
@@ -60,18 +58,29 @@ Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \enit@outerparindent=\dimen111
 \enit@toks=\toks16
 \enit@inbox=\box26
-\enitdp@description=\count91
+\enitdp@description=\count90
 )
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks17
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
 ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\multicol.sty"
 Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
-\c@tracingmulticols=\count92
+\c@tracingmulticols=\count91
 \mult@box=\box27
 \multicol@leftmargin=\dimen112
-\c@unbalance=\count93
-\c@collectmore=\count94
-\doublecol@number=\count95
-\multicoltolerance=\count96
-\multicolpretolerance=\count97
+\c@unbalance=\count92
+\c@collectmore=\count93
+\doublecol@number=\count94
+\multicoltolerance=\count95
+\multicolpretolerance=\count96
 \full@width=\dimen113
 \page@free=\dimen114
 \premulticols=\dimen115
@@ -102,21 +111,21 @@ Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
 \@tempa=\box48
 \@tempa=\box49
 \@tempa=\box50
-\c@columnbadness=\count98
-\c@finalcolumnbadness=\count99
+\c@columnbadness=\count97
+\c@finalcolumnbadness=\count98
 \last@try=\dimen118
 \multicolovershoot=\dimen119
 \multicolundershoot=\dimen120
 \mult@nat@firstbox=\box51
 \colbreak@box=\box52
-\mc@col@check@num=\count100
+\mc@col@check@num=\count99
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count101
-\float@exts=\toks17
+\c@float@type=\count100
+\float@exts=\toks18
 \float@box=\box53
-\@float@everytoks=\toks18
+\@float@everytoks=\toks19
 \@floatcapt=\box54
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\tabularx.sty"
@@ -126,7 +135,7 @@ Package: tabularx 2016/02/03 v2.11 `tabularx' package (DPC)
 Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
 \col@sep=\dimen121
 \extrarowheight=\dimen122
-\NC@list=\toks19
+\NC@list=\toks20
 \extratabsurround=\skip46
 \backup@length=\skip47
 )
@@ -135,24 +144,27 @@ Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
 \TX@old@col=\dimen125
 \TX@target=\dimen126
 \TX@delta=\dimen127
-\TX@cols=\count102
-\TX@ftn=\toks20
+\TX@cols=\count101
+\TX@ftn=\toks21
 )
+\c@magicrownumbers=\count102
+\enitdp@todolist=\count103
+
 No file qpv2.aux.
 \openout1 = `qpv2.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -172,12 +184,12 @@ LaTeX Font Info:    ... okay on input line 12.
 * \topmargin=-52.36449pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=11.0pt
+* \topskip=10.0pt
 * \footskip=30.0pt
-* \marginparwidth=50.0pt
-* \marginparsep=10.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -187,107 +199,68 @@ LaTeX Font Info:    ... okay on input line 12.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Try loading font information for OT1+pbk on input line 23.
+LaTeX Font Info:    Try loading font information for OT1+pbk on input line 25.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1pbk.fd"
 File: ot1pbk.fd 2001/06/04 font definitions for OT1/pbk.
 )
-LaTeX Font Info:    Font shape `OT1/pbk/m/n' in size <10.95> not available
-(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 23.
-LaTeX Font Info:    Font shape `OT1/pbk/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/pbk/b/n' tried instead on input line 25.
-LaTeX Font Info:    Font shape `OT1/pbk/b/n' in size <10.95> not available
-(Font)              Font shape `OT1/pbk/db/n' tried instead on input line 25.
-LaTeX Font Info:    Font shape `OT1/pbk/m/it' in size <10.95> not available
-(Font)              Font shape `OT1/pbk/l/it' tried instead on input line 27.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 30.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 30.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 30.
+LaTeX Font Info:    Font shape `OT1/pbk/m/n' in size <10> not available
+(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 25.
+LaTeX Font Info:    Font shape `OT1/pbk/bx/n' in size <10> not available
+(Font)              Font shape `OT1/pbk/b/n' tried instead on input line 27.
+LaTeX Font Info:    Font shape `OT1/pbk/b/n' in size <10> not available
+(Font)              Font shape `OT1/pbk/db/n' tried instead on input line 27.
+LaTeX Font Info:    Font shape `OT1/pbk/m/it' in size <10> not available
+(Font)              Font shape `OT1/pbk/l/it' tried instead on input line 29.
+LaTeX Font Info:    Try loading font information for U+msa on input line 32.
 
-Overfull \hbox (5.9686pt too wide) in paragraph at lines 30--42
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 32.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (20.08385pt too wide) in paragraph at lines 32--47
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 45--49
-
+Overfull \hbox (17.89436pt too wide) in paragraph at lines 56--65
+[][] 
  []
 
 [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Overfull \hbox (6.49641pt too wide) in paragraph at lines 73--73
-[]|\OT1/pbk/l/n/10.95 1| 
- []
-
-
-Overfull \hbox (6.49641pt too wide) in paragraph at lines 73--73
-[]|\OT1/pbk/l/n/10.95 2| 
- []
-
-
-Overfull \hbox (6.49641pt too wide) in paragraph at lines 73--73
-[]|\OT1/pbk/l/n/10.95 3| 
- []
-
-
-Overfull \hbox (6.49641pt too wide) in paragraph at lines 73--73
-[]|\OT1/pbk/l/n/10.95 4| 
- []
-
-
-Overfull \hbox (6.49641pt too wide) in paragraph at lines 73--73
-[]|\OT1/pbk/l/n/10.95 5| 
- []
-
-
-Overfull \hbox (6.49641pt too wide) in paragraph at lines 73--73
-[]|\OT1/pbk/l/n/10.95 6| 
- []
-
-
-Overfull \hbox (6.49641pt too wide) in paragraph at lines 73--73
-[]|\OT1/pbk/l/n/10.95 7| 
- []
-
-
-Overfull \hbox (6.49641pt too wide) in paragraph at lines 73--73
-[]|\OT1/pbk/l/n/10.95 8| 
- []
-
-
-Overfull \hbox (6.49641pt too wide) in paragraph at lines 73--73
-[]|\OT1/pbk/l/n/10.95 9| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--83
+Underfull \hbox (badness 10000) in paragraph at lines 93--99
 
  []
 
 [2]
-! Missing number, treated as zero.
-<to be read again> 
-                   \protect 
-l.95 \documentclass
-                   {exam}
-? 
-! Emergency stop.
-<to be read again> 
-                   \protect 
-l.95 \documentclass
-                   {exam}
-End of file on the terminal!
+Underfull \hbox (badness 10000) in paragraph at lines 155--171
 
- 
+ []
+
+[3] (qpv2.aux) ) 
 Here is how much of TeX's memory you used:
- 1350 strings out of 493328
- 19314 string characters out of 3139104
- 109422 words of memory out of 3000000
- 4915 multiletter control sequences out of 15000+200000
- 10886 words of font info for 33 fonts, out of 3000000 for 9000
+ 1639 strings out of 493328
+ 22419 string characters out of 3139104
+ 99240 words of memory out of 3000000
+ 5190 multiletter control sequences out of 15000+200000
+ 9240 words of font info for 30 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 23i,10n,19p,199b,253s stack positions out of 5000i,500n,10000p,200000b,50000s
-!  ==> Fatal error occurred, no output PDF file produced!
+ 25i,12n,26p,166b,257s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program Files/MiKTeX 2
+.9/fonts/type1/urw/bookman/ubkd8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
+urw/bookman/ubkl8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/bookman/ubk
+li8a.pfb>
+Output written on qpv2.pdf (3 pages, 80079 bytes).
+PDF statistics:
+ 37 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
