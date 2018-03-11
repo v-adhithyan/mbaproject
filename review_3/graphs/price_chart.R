@@ -1,5 +1,5 @@
 require(ggplot2)
-files = c("sbt.csv", "sbi.csv", "sbbj.csv", "sbm.csv")
+files = c("data/sbt.csv", "data/sbi.csv", "data/sbbj.csv", "data/sbm.csv")
 for (f in files) {
   data <- read.csv(f)
   min <- min(data$Close.Price)
