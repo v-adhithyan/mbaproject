@@ -1,0 +1,10 @@
+pcv=~happy+pleased+disappointed+violated+grateful+info+commute+id
+service_performance=~time+effort+consistency+willing+approachable+courteous+listen+honest+effort.1+neat+needs
+customer_satisfaction=~service_performance+service+satisfaction+expectation+before_merger
+loyalty=~recommend+avail_service+open_again+negative+another_bank
+pcv~customer_satisfaction
+customer_satisfaction~loyalty
+pcv~~pcv
+customer_satisfaction~~customer_satisfaction
+service_performance~~service_performance
+loyalty~~loyalty

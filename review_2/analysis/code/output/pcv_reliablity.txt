@@ -1,0 +1,44 @@
+
+Reliability analysis  1  
+Call: alpha(x = pcv, keys = -1, cumulative = -1, title = 1, max = 1, 
+    na.rm = -1, check.keys = 1, n.iter = 1, delete = 1)
+
+  raw_alpha std.alpha G6(smc) average_r S/N   ase mean  sd
+       0.9       0.9    0.94      0.54 9.4 0.016   20 7.8
+
+ lower alpha upper     95% confidence boundaries
+0.87 0.9 0.93 
+
+ Reliability if an item is dropped:
+             raw_alpha std.alpha G6(smc) average_r S/N alpha se
+happy-            0.88      0.88    0.92      0.52 7.7    0.019
+pleased-          0.88      0.88    0.92      0.52 7.6    0.019
+disappointed      0.88      0.88    0.93      0.52 7.6    0.019
+violated          0.88      0.88    0.92      0.52 7.4    0.020
+grateful-         0.89      0.90    0.94      0.55 8.6    0.018
+info              0.89      0.89    0.93      0.54 8.3    0.018
+commute           0.90      0.90    0.93      0.57 9.1    0.017
+id                0.90      0.90    0.94      0.57 9.3    0.017
+
+ Item statistics 
+               n raw.r std.r r.cor r.drop mean  sd
+happy-       101  0.81  0.83  0.83   0.74  2.3 1.3
+pleased-     101  0.81  0.83  0.83   0.75  2.4 1.2
+disappointed 101  0.82  0.83  0.82   0.75  2.2 1.2
+violated     101  0.84  0.85  0.85   0.79  2.2 1.3
+grateful-    101  0.71  0.73  0.67   0.63  2.9 1.0
+info         101  0.78  0.76  0.73   0.69  2.7 1.4
+commute      101  0.71  0.68  0.65   0.60  2.5 1.5
+id           101  0.69  0.66  0.62   0.58  2.9 1.4
+
+Non missing response frequency for each item
+                1    2    3    4    5 miss
+happy        0.08 0.12 0.14 0.34 0.33    0
+pleased      0.08 0.12 0.14 0.43 0.24    0
+disappointed 0.36 0.29 0.18 0.14 0.04    0
+violated     0.39 0.31 0.14 0.09 0.08    0
+grateful     0.08 0.14 0.45 0.26 0.08    0
+info         0.25 0.27 0.13 0.22 0.14    0
+commute      0.34 0.25 0.15 0.10 0.17    0
+id           0.23 0.20 0.20 0.23 0.15    0
+

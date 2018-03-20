@@ -1,0 +1,30 @@
+
+Reliability analysis   
+Call: alpha(x = customer_satisfaction)
+
+  raw_alpha std.alpha G6(smc) average_r S/N    ase mean  sd
+      0.97      0.97    0.96      0.88  31 0.0052  2.8 1.4
+
+ lower alpha upper     95% confidence boundaries
+0.96 0.97 0.98 
+
+ Reliability if an item is dropped:
+              raw_alpha std.alpha G6(smc) average_r S/N alpha se
+service            0.96      0.96    0.95      0.90  26   0.0067
+satisfaction       0.96      0.96    0.94      0.88  22   0.0077
+expectation        0.95      0.95    0.92      0.86  18   0.0091
+before_merger      0.97      0.97    0.95      0.91  29   0.0059
+
+ Item statistics 
+                n raw.r std.r r.cor r.drop mean  sd
+service       101  0.95  0.95  0.92   0.91  2.8 1.5
+satisfaction  101  0.96  0.96  0.95   0.93  2.9 1.5
+expectation   101  0.98  0.98  0.98   0.96  2.8 1.4
+before_merger 101  0.94  0.94  0.91   0.89  2.7 1.4
+
+Non missing response frequency for each item
+                 1    2    3    4    5 miss
+service       0.30 0.17 0.13 0.25 0.16    0
+satisfaction  0.30 0.14 0.15 0.25 0.17    0
+expectation   0.31 0.11 0.22 0.26 0.11    0
+before_merger 0.27 0.16 0.28 0.17 0.13    0

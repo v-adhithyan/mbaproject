@@ -79,14 +79,16 @@ another_branch <- table(data$another_branch)
 loyalty<- select(data, recommend, avail_service, open_again, another_branch, negative)
 #negative, another_branch)
 pcv_reliablity <- alpha(pcv, -1, -1, 1, 1, -1, 1, 1, 1)
+#pcv_reliablity <- alpha(pcv)
 sp_reliablity <- alpha(service_performance)
 cs_reliablity <- alpha(customer_satisfaction)
 loyalty_reliablity <- alpha(loyalty, 1, 1, 1, 1, -1, check.keys = TRUE)
+#loyalty_reliablity <- alpha(loyalty)
 
-pcv_reliablity
-sp_reliablity
-cs_reliablity
-loyalty_reliablity
+capture.output(pcv_reliablity, file="pcv_reliablity.txt")
+capture.output(sp_reliablity, file="sp_reliablity.txt")
+capture.output(cs_reliablity, file="cs_reliablity.txt")
+capture.output(loyalty_reliablity, file="loyalty_reliablity.txt")
 
 cor(pcv, customer_satisfaction, method="pearson")
 

@@ -1,0 +1,28 @@
+pcv -> happy, NA, NA
+pcv -> pleased, NA, NA
+pcv -> disappointed, NA, NA
+pcv -> violated, NA, NA
+pcv -> grateful, NA, NA
+pcv -> info, NA, NA
+pcv -> commute, NA, NA
+pcv -> id, NA, NA
+service_performance -> time, NA, NA
+service_performance -> effort, NA, NA
+service_performance -> consistency,NA, NA 
+service_performance -> willing, NA, NA
+service_performance -> approachable,NA, NA 
+service_performance -> courteous, NA, NA
+service_performance -> listen, NA, NA
+service_performance -> honest, NA, NA
+service_performance -> effort.1, NA, NA
+service_performance -> neat, NA, NA
+service_performance -> needs, NA, NA
+customer_satisfaction -> service, NA, NA
+customer_satisfaction -> satisfaction, NA, NA
+customer_satisfaction -> expectation, NA, NA
+customer_satisfaction -> before_merger, NA, NA
+loyalty -> recommend, NA, NA
+loyalty -> avail_service, NA, NA
+loyalty -> open_again, NA, NA
+loyalty -> negative, NA, NA
+loyalty -> another_bank, NA, NA
