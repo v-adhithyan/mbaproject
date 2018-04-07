@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.2)  7 APR 2018 10:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.2)  7 APR 2018 11:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -562,61 +562,75 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 13.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 14.
  (/usr/local/texlive/2017basic/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 15.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 16.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <18> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 15.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 16.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 17.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 18.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <14> not available
-(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 19.
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 20.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <16> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 23.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 24.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 26.
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 27.
 
 <anna_univ_logo.jpg, id=1, 230.8625pt x 219.82124pt>
 File: anna_univ_logo.jpg Graphic file (type jpg)
  <use anna_univ_logo.jpg>
-Package pdftex.def Info: anna_univ_logo.jpg used on input line 31.
+Package pdftex.def Info: anna_univ_logo.jpg used on input line 32.
 (pdftex.def)             Requested size: 115.43095pt x 109.91034pt.
 
 [1
 
 {/usr/local/texlive/2017basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./
 anna_univ_logo.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 48--52
+Underfull \hbox (badness 10000) in paragraph at lines 49--53
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--58
+Underfull \hbox (badness 10000) in paragraph at lines 54--59
 
  []
 
-[2] (./final_report.aux) ) 
+[2] [3] (./final_report.toc)
+\tf@toc=\write3
+\openout3 = `final_report.toc'.
+
+ (./final_report.lof)
+\tf@lof=\write4
+\openout4 = `final_report.lof'.
+
+ (./final_report.lot)
+\tf@lot=\write5
+\openout5 = `final_report.lot'.
+
+ [4]
+[1] [2] (./final_report.aux) ) 
 Here is how much of TeX's memory you used:
- 2454 strings out of 494437
- 34718 string characters out of 6166646
+ 2470 strings out of 494437
+ 34900 string characters out of 6166646
  95690 words of memory out of 5000000
- 5762 multiletter control sequences out of 15000+600000
- 18926 words of font info for 31 fonts, out of 8000000 for 9000
+ 5767 multiletter control sequences out of 15000+600000
+ 24820 words of font info for 33 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 39i,6n,25p,318b,281s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2017basic/texmf-dist/fonts/enc/dv
-ips/lm/lm-rm.enc}{/usr/local/texlive/2017basic/texmf-dist/fonts/enc/dvips/base/
-8r.enc}</usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/lm/lmr10.pfb
-></usr/local/texlive/2017basic/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></us
-r/local/texlive/2017basic/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/lo
-cal/texlive/2017basic/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on final_report.pdf (2 pages, 66222 bytes).
+ 39i,6n,25p,1069b,281s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2017basic/texmf-dist/fonts/en
+c/dvips/lm/lm-rm.enc}{/usr/local/texlive/2017basic/texmf-dist/fonts/enc/dvips/b
+ase/8r.enc}</usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/lm/lmbx1
+2.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/lm/lmr10.pfb>
+</usr/local/texlive/2017basic/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr
+/local/texlive/2017basic/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/loc
+al/texlive/2017basic/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
+Output written on final_report.pdf (6 pages, 99661 bytes).
 PDF statistics:
- 30 PDF objects out of 1000 (max. 8388607)
- 20 compressed objects within 1 object stream
+ 46 PDF objects out of 1000 (max. 8388607)
+ 31 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
