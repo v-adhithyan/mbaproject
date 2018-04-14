@@ -1,4 +1,5 @@
 library(tidyverse)
+library(ggplot2)
 
 df <- read.csv("out.csv")
 glimpse(df)

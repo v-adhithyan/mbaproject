@@ -40,31 +40,109 @@
 \end{center}
 \newpage
 \section*{DATA COLLECTION}
+\par Data was collected in 2 modes \textbf{online} mode using \textbf{Google Forms} and \textbf{offline mode} in which some part of data was collected from erstwhile SBT pollachi branch and SBH Thiruvanmiyur branch. For online mode data collection twitter was used as medium to communicate with people. Those who have mentioned SBH, SBT, SBBJ, SBP and SBM were identified from their tweets and they were contacted to obtain response.
 \section*{ANALYSIS}
 \subsection*{No of data}
 \par A total of \textbf{101} responses were obtained using Google forms and some of the data was collected in the bank premises in Chennai and Pollachi.
 \subsection*{Demographics}
+\par Out of 101 responses
+\begin{itemize}
+\item 17 were Female (16.8 \%)
+\item 84 were Male (83.2 \%)
+\end{itemize}
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.2]{age_distribution.png}
+\caption{Age distribution of respondents}
+\end{figure}
 \subsection*{Cronbach's alpha}
 \begin{center}
-\begin{tabular}{|c|c|}
+\begin{tabular}{|c|c|c|}
 \hline
-\textbf{Item} & \textbf{Cronbach $\alpha$}\\
+\textbf{Scale name} & \textbf{Cronbach $\alpha$} & \textbf{No of items}\\
 \hline
-Psychological Contract Violation & 0.9 \\
-Service Performance & 0.46 \\
-Customer Satisfaction & 0.96 \\
-Customer Loyalty & 0.94 \\
+Psychological Contract Violation & \textbf{0.218} & 8\\
+Service Performance & \textbf{0.712} & 10\\
+Customer Satisfaction & \textbf{0.96} & 4\\
+Customer Loyalty & \textbf{0.927} & 5 \\
 \hline
 \end{tabular}
 \end{center}
-\subsection*{Summary (Mean, sd, skewness, curtosis}
-\section*{INTERPRETAION}
-\subsection*{Hypothesis}
+
+\subsection*{DESCRPTIVE STATISTICS}
+\begin{center}
+\begin{tabular}{|c|c|c|c|}
+\hline
+Item & \textbf{Mean} & \textbf{SD} & N \\
+\hline
+Customer satisfaction & 2.7847 & 1.33706 & 101 \\
+PCV & 2.87005 & .503091 & 101 \\
+Overall service & 2.8 & 1.49 & 101 \\
+Service performance & 2.81 & .6437 & 101 \\
+Loyalty & 2.685 & .368 & 101 \\
+\hline
+\end{tabular}
+\end{center}
+
+\subsection*{HYPOTHESIS}
 \begin{itemize}
-\item H0 - Psychological Contract Violation has negative influence customer satisfaction.
-\item H1 - Customer satisfaction has positive influence on customer loyalty.
+\item H0 - Psychological Contract Violation has negative influence on customer satisfaction.
+\item H1 - Service performance is a determinant of Overall Service
+\item H2 - Overall service has a positive impact on customer satisfaction
+\item H3 - Customer satisfaction has positive influence on customer loyalty.
 \end{itemize}
-\subsection*{Adjusted R2}
+
+\subsection*{Pearson Correlation}
+\begin{center}
+\begin{tabular}{|c|c|}
+\hline
+Variables & Correlation Value \\
+\hline
+PCV vs Customer Satisfaction & \textbf{-0.638} \\
+Service Performance vs Overall Service & \textbf{-0.744} \\
+Overall service vs Customer Satisfaction & \textbf{0.949} \\
+Customer Satisfaction vs Customer Loyalty & \textbf{0.396} \\
+\hline
+\end{tabular}
+\end{center}
+
+\subsection*{MODEL SUMMARY}
+\begin{figure}[H]
+\centering
+\includegraphics[scale=1]{pcv_vs_customer_satisfaction.png}
+\caption{H0 - Psychological Contract Violation has negative influence on customer satisfaction.}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=1]{service_performance_vs_service.png}
+\caption{H1 - Service performance is a determinant of Overall Service}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=1]{sp_vs_cs.png}
+\caption{H1 - Overall service has a positive impact on customer satisfaction}
+\end{figure}
+
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=1]{customer_satisfaction_vs_loyalty.png}
+\caption{H3 - Customer satisfaction has positive influence on customer loyalty.}
+\end{figure}
+
+\section*{INTERPRETATION}
+\begin{itemize}
+\item PCV and customer satisfaction are negatively correlated. This indicates as customer perceives more PCV, his satisfaction gets affected.
+\item Service performance is negatively correlated with overall service. This indicates overall service doesn't depend on service performance. 
+\item Overall service has a correlation with customer satisfaction. As overall service increases, customer satisfaction tends to increase.
+\item Customer satisfaction and loyalty are postively correlated. This indicates a satisfied customer will be more loyal to the bank and spreads word of mouth.
+\item R squared value for HO is 0.407 at 95\% significance level.
+\item R squared value for H1 is 0.554 at 95\% significance level.
+\item R squared value for H2 is 0.9 at 95\% significance level.
+\item R squared value for H3 is 0.157 at 95\% significance level.
+\end{itemize}
 \section*{IMPLICATION}
 \section*{CONCLUSION}
 \section*{FUTURE RESEARCH DIRECTIONS}

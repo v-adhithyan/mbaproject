@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.2)  8 APR 2018 10:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.2)  14 APR 2018 10:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -691,55 +691,94 @@ Package pdftex.def Info: anna_univ_logo.jpg used on input line 32.
 
 {/usr/local/texlive/2017basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./
 anna_univ_logo.jpg>]
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 49.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 50.
+
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/psnfss/omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 50.
+
+<age_distribution.png, id=14, 2249.40375pt x 1680.2775pt>
+File: age_distribution.png Graphic file (type png)
+
+<use age_distribution.png>
+Package pdftex.def Info: age_distribution.png used on input line 55.
+(pdftex.def)             Requested size: 449.87279pt x 336.04955pt.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 60.
 
 (/usr/local/texlive/2017basic/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 49.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 60.
 
 
 (/usr/local/texlive/2017basic/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 49.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 60.
 
 
 (/usr/local/texlive/2017basic/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 49.
+(Font)              <10> on input line 60.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 49.
+(Font)              <7> on input line 60.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 49.
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 64.
+(Font)              <5> on input line 60.
+ [2 <./age_distribution.png>]
+<pcv_vs_customer_satisfaction.png, id=28, 367.3725pt x 109.1578pt>
+File: pcv_vs_customer_satisfaction.png Graphic file (type png)
 
-(/usr/local/texlive/2017basic/texmf-dist/tex/latex/psnfss/omsptm.fd
-File: omsptm.fd 
-)
-LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 64.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 72.
- [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 72.
+<use pcv_vs_customer_satisfaction.png>
+Package pdftex.def Info: pcv_vs_customer_satisfaction.png used on input line 11
+2.
+(pdftex.def)             Requested size: 367.37158pt x 109.15753pt.
+
+<service_performance_vs_service.png, id=29, 362.85562pt x 104.64093pt>
+File: service_performance_vs_service.png Graphic file (type png)
+
+<use service_performance_vs_service.png>
+Package pdftex.def Info: service_performance_vs_service.png used on input line 
+118.
+(pdftex.def)             Requested size: 362.85474pt x 104.64066pt.
+ [3 <./pcv_vs_customer_satisfaction.png>] <sp_vs_cs.png, id=42, 359.09157pt x 1
+03.13531pt>
+File: sp_vs_cs.png Graphic file (type png)
+ <use sp_vs_cs.png>
+Package pdftex.def Info: sp_vs_cs.png used on input line 124.
+(pdftex.def)             Requested size: 359.09068pt x 103.13504pt.
+
+<customer_satisfaction_vs_loyalty.png, id=43, 366.61969pt x 106.14656pt>
+File: customer_satisfaction_vs_loyalty.png Graphic file (type png)
+
+<use customer_satisfaction_vs_loyalty.png>
+Package pdftex.def Info: customer_satisfaction_vs_loyalty.png used on input lin
+e 131.
+(pdftex.def)             Requested size: 366.61879pt x 106.1463pt.
+ [4 <./service_performance_vs_service.png> <./sp_vs_cs.png> <./customer_satisfa
+ction_vs_loyalty.png>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 150.
+ [5]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 150.
 
 (./report.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 72.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 72.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 150.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 150.
 Package rerunfilecheck Info: File `report.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 72.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 150.
  ) 
 Here is how much of TeX's memory you used:
- 6065 strings out of 494437
- 89875 string characters out of 6166646
- 175875 words of memory out of 5000000
- 9312 multiletter control sequences out of 15000+600000
+ 6103 strings out of 494437
+ 90745 string characters out of 6166646
+ 179875 words of memory out of 5000000
+ 9335 multiletter control sequences out of 15000+600000
  38248 words of font info for 43 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 28i,7n,25p,245b,327s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28i,7n,25p,462b,417s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017basic/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/u
 sr/local/texlive/2017basic/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/
 texlive/2017basic/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/20
@@ -750,10 +789,10 @@ c/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2017basic/texm
 f-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2017basic/texmf-dis
 t/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2017basic/texmf-dist/fo
 nts/type1/urw/times/utmr8a.pfb>
-Output written on report.pdf (2 pages, 103491 bytes).
+Output written on report.pdf (5 pages, 244758 bytes).
 PDF statistics:
- 64 PDF objects out of 1000 (max. 8388607)
- 51 compressed objects within 1 object stream
- 15 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 93 PDF objects out of 1000 (max. 8388607)
+ 68 compressed objects within 1 object stream
+ 24 named destinations out of 1000 (max. 500000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
