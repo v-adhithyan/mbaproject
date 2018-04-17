@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.2)  17 APR 2018 09:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.2)  18 APR 2018 00:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -681,7 +681,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <14> not available
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <16> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 26.
 
-<anna_univ_logo.jpg, id=4, 230.8625pt x 219.82124pt>
+<anna_univ_logo.jpg, id=8, 230.8625pt x 219.82124pt>
 File: anna_univ_logo.jpg Graphic file (type jpg)
  <use anna_univ_logo.jpg>
 Package pdftex.def Info: anna_univ_logo.jpg used on input line 32.
@@ -699,7 +699,7 @@ File: omsptm.fd
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 50.
 
-<age_distribution.png, id=14, 2249.40375pt x 1680.2775pt>
+<age_distribution.png, id=18, 2249.40375pt x 1680.2775pt>
 File: age_distribution.png Graphic file (type png)
 
 <use age_distribution.png>
@@ -729,96 +729,107 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 60.
  [2 <./age_distribution.png>]
-<pcv_vs_customer_satisfaction.png, id=28, 367.3725pt x 109.1578pt>
+<pcv_vs_customer_satisfaction.png, id=32, 367.3725pt x 109.1578pt>
 File: pcv_vs_customer_satisfaction.png Graphic file (type png)
 
 <use pcv_vs_customer_satisfaction.png>
 Package pdftex.def Info: pcv_vs_customer_satisfaction.png used on input line 11
-2.
+8.
 (pdftex.def)             Requested size: 367.37158pt x 109.15753pt.
 
-<anova_pcv_cs.png, id=29, 406.51875pt x 149.8097pt>
+<anova_pcv_cs.png, id=33, 406.51875pt x 149.8097pt>
 File: anova_pcv_cs.png Graphic file (type png)
  <use anova_pcv_cs.png>
-Package pdftex.def Info: anova_pcv_cs.png used on input line 117.
+Package pdftex.def Info: anova_pcv_cs.png used on input line 123.
 (pdftex.def)             Requested size: 406.51775pt x 149.80931pt.
 
 [3 <./pcv_vs_customer_satisfaction.png>]
-<service_performance_vs_service.png, id=41, 362.85562pt x 104.64093pt>
+<service_performance_vs_service.png, id=47, 362.85562pt x 104.64093pt>
 File: service_performance_vs_service.png Graphic file (type png)
 
 <use service_performance_vs_service.png>
 Package pdftex.def Info: service_performance_vs_service.png used on input line 
-124.
+130.
 (pdftex.def)             Requested size: 362.85474pt x 104.64066pt.
 
-<anova_s_sp.png, id=42, 426.09187pt x 148.30406pt>
+<anova_s_sp.png, id=48, 426.09187pt x 148.30406pt>
 File: anova_s_sp.png Graphic file (type png)
  <use anova_s_sp.png>
-Package pdftex.def Info: anova_s_sp.png used on input line 129.
+Package pdftex.def Info: anova_s_sp.png used on input line 135.
 (pdftex.def)             Requested size: 426.09082pt x 148.30368pt.
 
-<sp_vs_cs.png, id=43, 359.09157pt x 103.13531pt>
+<sp_vs_cs.png, id=49, 359.09157pt x 103.13531pt>
 File: sp_vs_cs.png Graphic file (type png)
  <use sp_vs_cs.png>
-Package pdftex.def Info: sp_vs_cs.png used on input line 136.
+Package pdftex.def Info: sp_vs_cs.png used on input line 142.
 (pdftex.def)             Requested size: 359.09068pt x 103.13504pt.
 
-<anova_css.png, id=44, 420.82219pt x 164.11313pt>
+<anova_css.png, id=50, 420.82219pt x 164.11313pt>
 File: anova_css.png Graphic file (type png)
  <use anova_css.png>
-Package pdftex.def Info: anova_css.png used on input line 141.
+Package pdftex.def Info: anova_css.png used on input line 147.
 (pdftex.def)             Requested size: 420.82115pt x 164.11272pt.
  [4 <./anova_pcv_cs.png> <./service_performance_vs_service.png> <./anova_s_sp.p
 ng> <./sp_vs_cs.png>]
-<customer_satisfaction_vs_loyalty.png, id=54, 366.61969pt x 106.14656pt>
+<customer_satisfaction_vs_loyalty.png, id=60, 366.61969pt x 106.14656pt>
 File: customer_satisfaction_vs_loyalty.png Graphic file (type png)
 
 <use customer_satisfaction_vs_loyalty.png>
 Package pdftex.def Info: customer_satisfaction_vs_loyalty.png used on input lin
-e 147.
+e 153.
 (pdftex.def)             Requested size: 366.61879pt x 106.1463pt.
 
-<anova_cs_lo.png, id=55, 426.09187pt x 151.3153pt>
+<anova_cs_lo.png, id=61, 426.09187pt x 151.3153pt>
 File: anova_cs_lo.png Graphic file (type png)
  <use anova_cs_lo.png>
-Package pdftex.def Info: anova_cs_lo.png used on input line 152.
+Package pdftex.def Info: anova_cs_lo.png used on input line 158.
 (pdftex.def)             Requested size: 426.09082pt x 151.31493pt.
 
 [5 <./anova_css.png> <./customer_satisfaction_vs_loyalty.png> <./anova_cs_lo.pn
-g>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 173.
- [6]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 173.
+g>] [6]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 256.
+ [7]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 256.
  (./report.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 173.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 173.
-Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 173.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 256.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 256.
+
+
+Package rerunfilecheck Warning: File `report.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `report.out':
+(rerunfilecheck)             Before: 7BE7EED0FEEE8DAE8358367B428020A8;48
+(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 256.
  ) 
 Here is how much of TeX's memory you used:
- 6123 strings out of 494437
- 91106 string characters out of 6166646
- 178875 words of memory out of 5000000
- 9351 multiletter control sequences out of 15000+600000
- 38248 words of font info for 43 fonts, out of 8000000 for 9000
+ 6134 strings out of 494437
+ 91215 string characters out of 6166646
+ 182875 words of memory out of 5000000
+ 9357 multiletter control sequences out of 15000+600000
+ 41194 words of font info for 44 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 28i,7n,25p,462b,419s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2017basic/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/u
-sr/local/texlive/2017basic/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/
-texlive/2017basic/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/20
-17basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texliv
-e/2017basic/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/201
-7basic/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/local/texlive/2017basi
-c/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2017basic/texm
-f-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2017basic/texmf-dis
-t/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2017basic/texmf-dist/fo
-nts/type1/urw/times/utmr8a.pfb>
-Output written on report.pdf (6 pages, 283385 bytes).
+ 28i,7n,25p,632b,412s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{subsection.0.1} has been referenced but does not 
+exist, replaced by a fixed one
+
+{/usr/local/texlive/2017basic/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/loc
+al/texlive/2017basic/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/te
+xlive/2017basic/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2017
+basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/
+2017basic/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2017b
+asic/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2017basic/
+texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/local/texlive/2017basic/texmf
+-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2017basic/texmf-dist/
+fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2017basic/texmf-dist/fonts
+/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/typ
+e1/urw/times/utmr8a.pfb>
+Output written on report.pdf (7 pages, 318350 bytes).
 PDF statistics:
- 104 PDF objects out of 1000 (max. 8388607)
- 70 compressed objects within 1 object stream
- 24 named destinations out of 1000 (max. 500000)
- 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 122 PDF objects out of 1000 (max. 8388607)
+ 86 compressed objects within 1 object stream
+ 28 named destinations out of 1000 (max. 500000)
+ 59 words of extra memory for PDF output out of 10000 (max. 10000000)
 

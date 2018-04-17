@@ -1,14 +1,38 @@
 \contentsline {section}{\numberline {1}INTRODUCTION}{1}{section.1}
 \contentsline {subsection}{\numberline {1.1}LIST OF PUBLIC SECTOR BANKS IN INDIA}{1}{subsection.1.1}
 \contentsline {subsection}{\numberline {1.2}FORMATION OF SBI AND ASSOCIATE BANKS}{2}{subsection.1.2}
-\contentsline {subsection}{\numberline {1.3}SBI AND IT'S ASSOCIATES MERGER}{2}{subsection.1.3}
-\contentsline {subsection}{\numberline {1.4}REASON FOR SBI AND IT'S ASSOCIATES MERGER}{2}{subsection.1.4}
-\contentsline {subsection}{\numberline {1.5}ADVANTAGES OF MERGER}{3}{subsection.1.5}
-\contentsline {subsection}{\numberline {1.6}DISADVANTAGES OF MERGER}{4}{subsection.1.6}
-\contentsline {subsection}{\numberline {1.7}PROBLEM STATEMENT}{5}{subsection.1.7}
-\contentsline {subsection}{\numberline {1.8}NEED FOR THE STUDY}{5}{subsection.1.8}
-\contentsline {subsection}{\numberline {1.9}OBJECTIVES}{5}{subsection.1.9}
-\contentsline {subsubsection}{\numberline {1.9.1}PRIMARY OBJECTIVE}{5}{subsubsection.1.9.1}
-\contentsline {subsubsection}{\numberline {1.9.2}SECONDARY OBJECTIVE}{5}{subsubsection.1.9.2}
-\contentsline {section}{\numberline {2}CONCLUSION}{6}{section.2}
-\contentsline {section}{\numberline {3}REFERENCES}{7}{section.3}
+\contentsline {subsection}{\numberline {1.3}MERGERS AND ACQUISTIONS IN BANKING SECTOR}{2}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}SBI AND IT'S ASSOCIATES MERGER}{3}{subsection.1.4}
+\contentsline {subsection}{\numberline {1.5}REASON FOR SBI AND IT'S ASSOCIATES MERGER}{3}{subsection.1.5}
+\contentsline {subsection}{\numberline {1.6}ADVANTAGES OF MERGER}{4}{subsection.1.6}
+\contentsline {subsection}{\numberline {1.7}DISADVANTAGES OF MERGER}{5}{subsection.1.7}
+\contentsline {subsection}{\numberline {1.8}PROBLEM STATEMENT}{5}{subsection.1.8}
+\contentsline {subsection}{\numberline {1.9}NEED FOR THE STUDY}{6}{subsection.1.9}
+\contentsline {subsection}{\numberline {1.10}OBJECTIVES}{6}{subsection.1.10}
+\contentsline {subsubsection}{\numberline {1.10.1}PRIMARY OBJECTIVE}{6}{subsubsection.1.10.1}
+\contentsline {subsubsection}{\numberline {1.10.2}SECONDARY OBJECTIVE}{6}{subsubsection.1.10.2}
+\contentsline {section}{\numberline {2}LITERATURE REVIEW}{7}{section.2}
+\contentsline {subsection}{\numberline {2.1}SCOPE OF THE STUDY}{7}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}PROPOSED MODEL}{8}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}RESEARCH GAP}{8}{subsection.2.3}
+\contentsline {section}{\numberline {3}METHODOLOGY}{9}{section.3}
+\contentsline {subsection}{\numberline {3.1}INTRODUCTION}{9}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}HYPOTHESIS}{9}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}DATA COLLECTION}{9}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}INSTRUMENT}{9}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}DATA PREPARATION}{10}{subsection.3.5}
+\contentsline {subsection}{\numberline {3.6}TECHNIQUES USED}{10}{subsection.3.6}
+\contentsline {subsection}{\numberline {3.7}LIMITATIONS}{10}{subsection.3.7}
+\contentsline {subsection}{\numberline {3.8}SUMMARY}{10}{subsection.3.8}
+\contentsline {section}{\numberline {4}DATA ANALYSIS}{11}{section.4}
+\contentsline {subsection}{\numberline {4.1}INTRODUCTION}{11}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}SCALE RELIABLITY}{11}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}DEMOGRAPHICS}{11}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}DESCRIPTIVE STATISTICS}{12}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}REGRESSION ANALYSIS}{13}{subsection.4.5}
+\contentsline {section}{\numberline {5}SUMMARY}{16}{section.5}
+\contentsline {section}{\numberline {6}CONCLUSION}{17}{section.6}
+\contentsline {subsection}{\numberline {6.1}FINDINGS}{17}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}CONCLUSION}{17}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}FUTURE WORK}{17}{subsection.6.3}
+\contentsline {section}{\numberline {7}REFERENCES}{18}{section.7}

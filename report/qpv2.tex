@@ -1,0 +1,152 @@
+\documentclass[10pt,a4paper]{article}
+\usepackage{geometry}
+\usepackage{enumitem,amssymb}
+\usepackage{multicol}
+\usepackage{float}
+\usepackage{tabularx}
+\newcounter{magicrownumbers}
+\newcommand\rownumber{\stepcounter{magicrownumbers}\arabic{magicrownumbers}}
+\newcommand \tab[1][1cm]{\hspace*{#1}}
+\newlist{todolist}{itemize}{2}
+\setlist[todolist]{label=$\square$}
+\geometry{left=20mm,right=20mm,top=20mm,bottom=20mm}
+\linespread{1.2}
+\begin{document}
+
+\begin{center}
+%{\LARGE{\textbf{POST MERGER ANALYSIS OF CUSTOMER SATISFACTION AND LOYALTY - A STUDY ON RECENT MERGER OF ASSOCIATES OF A POPULAR BANK WITH ITSELF}}}\\
+\textbf{SURVEY QUESTIONNAIRE}
+\end{center}
+\emph{Dear Sir / Madam, I am a second year MBA student from Anna University, Chennai. We are conducting this survey to know about customer satisfaction and loyalty after merger of associate banks of SBI with itself. There is no right or wrong answer. Please read the statements carefully and answer. All the data will be kept confidential. It will be used only for educational and research purposes only. None of the data will be disclosed.}\\
+\noindent\makebox[\linewidth]{\rule{\paperwidth}{0.4pt}}
+Age:\\
+Gender:\\
+Bank Name:\\
+Year of account opening:\\
+Location:\\
+Education:\\
+\noindent\makebox[\linewidth]{\rule{\paperwidth}{0.4pt}}
+{\fontfamily{pbk}\selectfont
+\section*{SECTION 1}
+\textbf{Please indicate to what extent you agree with the following statements.} \\
+1 = Not at all, 2 = Somewhat, 3 = Neutral, 4 = Some extent, 5 = Very great extent\\
+\emph {(Tick in the appropriate box)}\\
+\begin{minipage}{\textwidth}
+
+\begin{tabular}{|c|l|c|c|c|c|c|}
+\hline \multicolumn{2}{|c|}{} & 1 & 2 & 3 & 4 & 5\\
+\hline \rownumber & I feel happy about the merger & \tab & \tab & \tab & \tab & \tab \\
+\hline \rownumber & I feel pleased about the merger & \tab & \tab & \tab & \tab & \tab \\
+\hline \rownumber & I feel disappointed about the merger & \tab & \tab & \tab & \tab & \tab \\
+\hline \rownumber & I feel violated about the merger & \tab & \tab & \tab & \tab & \tab \\
+\hline \rownumber & I feel grateful about the merger & \tab & \tab & \tab & \tab & \tab \\
+\hline \rownumber & To what extent does the bank provide X  & \tab & \tab & \tab & \tab & \tab \\
+\hline \rownumber & I have difficulty in obtaining information post merger. & \tab & \tab & \tab & \tab & \tab \\
+\hline \rownumber & I find difficult to commute. & \tab & \tab & \tab & \tab & \tab \\
+\hline \rownumber & I lost my personal care / identity after merger. & \tab & \tab & \tab & \tab & \tab \\
+\hline
+\end{tabular}
+
+\end{minipage}
+
+\newpage
+\section*{SECTION 2 - AFTER MERGER SERVICE PERFORMANCE}
+\textbf{Please rate the following statements.}\\
+1 = Very High, 2 = High\\
+3 = Same,\\
+4 = Low, 5 = Very Low\\
+\emph {(Tick in the appropriate box)}\\
+\begin{minipage}{\textwidth}
+
+\begin{tabularx}{\linewidth}{|l|l|X|X|X|X|X|}
+\hline \multicolumn{2}{|c|}{} & 1 & 2 & 3 & 4 & 5\\
+\hline \rownumber & Time required to avail a service & \tab & \tab & \tab & \tab & \tab \\
+\hline \rownumber & Effort taken to receive a service & \tab & \tab & \tab & \tab & \tab \\
+\hline \rownumber & Employees provide consistent service & \tab & \tab & \tab & \tab & \tab \\
+\hline \rownumber & Employees are willing and provide service in a timely manner & \tab & \tab & \tab & \tab & \tab \\
+\hline \rownumber & Employees are approachable and easy to contact & \tab & \tab & \tab & \tab & \tab \\
+\hline \rownumber & Employees are courteous, polite and respectful & \tab & \tab & \tab & \tab & \tab \\
+\hline \rownumber & Employees listen and speak to me in  a language I understand & \tab & \tab & \tab & \tab & \tab \\
+\hline \rownumber & Employees are trustworthy, honest and believable. & \tab & \tab & \tab & \tab & \tab \\
+\hline \rownumber & Employees make effort to understand my needs.  & \tab & \tab & \tab & \tab & \tab \\
+\hline \rownumber & Physical facilities and employees are neat and clean. & \tab & \tab & \tab & \tab & \tab \\
+\hline \rownumber & The overall ability of bank to satisfy my needs and wants is. & \tab & \tab & \tab & \tab & \tab \\
+\hline
+\end{tabularx}
+\end{minipage}
+\begin{minipage}{\textwidth}
+\tab \\
+\textbf{Please rate the following statements.}\\
+1 = Pathetic, 2 = Poor\\
+3 = Same,\\
+4 = Good, 5 = Excellent\\
+\emph {(Tick in the appropriate box)}\\
+\begin{tabularx}{\linewidth}{|l|l|X|X|X|X|X|X|X|X|X|}
+\hline \multicolumn{2}{|c|}{} & 1 & 2 & 3 & 4 & 5\\
+\hline \rownumber & Overall service & \tab & \tab & \tab & \tab & \tab \\
+\hline
+\end{tabularx}
+\end{minipage}
+\section*{SECTION 3}
+%\begin{minipage}{\textwidth}
+\emph {(Tick only one option)}\\
+\rownumber. \textbf{Overall satisfaction level}
+\begin{todolist}
+    \item Very dissatisfied.
+    \item Dissatisfied.
+    \item Neutral.
+    \item Satisfied.
+    \item Very satisfied.
+\end{todolist}
+\rownumber. \textbf{To what extent, service has met expectation ?}
+\begin{todolist}
+    \item Much worse.
+    \item Worse than expectation.
+    \item Neutral.
+    \item Equal to expectation.
+    \item Better than expectation.
+\end{todolist}
+\newpage
+\rownumber. \textbf{Compare the current service with before merger.}
+\begin{todolist}
+    \item Very far from ideal.
+    \item Far from ideal.
+    \item Neutral.
+    \item Close to ideal.
+    \item Very close to ideal.
+\end{todolist} .
+%\end{minipage}
+\section*{SECTION 4}
+\textbf{Please rate the following statements.}\\
+1 = Not at all likely, 2 = Not very likely \\
+3 = Quite likely, 4 = Very likely\\
+\emph {(Tick in the appropriate box)}\\
+\begin{minipage}{\textwidth}
+
+\begin{tabularx}{\linewidth}{|l|l|X|X|X|X|}
+\hline \multicolumn{2}{|c|}{} & 1 & 2 & 3 & 4\\
+\hline \rownumber & Would you recommend to a friend / relatives? & \tab & \tab & \tab & \tab \\
+\hline \rownumber & Will you avail service continuosly ?& \tab & \tab & \tab & \tab \\
+\hline \rownumber & Will you open account again ? & \tab & \tab & \tab & \tab \\
+\hline
+\end{tabularx}
+
+\end{minipage}
+\tab \\
+\textbf{Please rate the following statements.}\\
+1 = Strongly disagree, 2 = Disagree \\
+3 = Neutral
+4 = Agree, 5 - Strongly agree\\
+\emph {(Tick in the appropriate box)}\\
+\begin{minipage}{\textwidth}
+
+\begin{tabularx}{\linewidth}{|l|l|X|X|X|X|X|}
+\hline \multicolumn{2}{|c|}{} & 1 & 2 & 3 & 4 & 5\\
+\hline \rownumber & I had a problem or negative experience after merger? & \tab & \tab & \tab & \tab & \tab \\
+\hline \rownumber & Given an option to switch, I will switch to other banks. & \tab & \tab & \tab & \tab & \tab \\
+\hline
+\end{tabularx}
+
+\end{minipage}
+}
+\end{document}
