@@ -12,27 +12,30 @@
 \contentsline {subsubsection}{\numberline {1.10.1}PRIMARY OBJECTIVE}{6}{subsubsection.1.10.1}
 \contentsline {subsubsection}{\numberline {1.10.2}SECONDARY OBJECTIVE}{6}{subsubsection.1.10.2}
 \contentsline {section}{\numberline {2}LITERATURE REVIEW}{7}{section.2}
-\contentsline {subsection}{\numberline {2.1}SCOPE OF THE STUDY}{7}{subsection.2.1}
-\contentsline {subsection}{\numberline {2.2}PROPOSED MODEL}{8}{subsection.2.2}
-\contentsline {subsection}{\numberline {2.3}RESEARCH GAP}{8}{subsection.2.3}
-\contentsline {section}{\numberline {3}METHODOLOGY}{9}{section.3}
-\contentsline {subsection}{\numberline {3.1}INTRODUCTION}{9}{subsection.3.1}
-\contentsline {subsection}{\numberline {3.2}HYPOTHESIS}{9}{subsection.3.2}
-\contentsline {subsection}{\numberline {3.3}DATA COLLECTION}{9}{subsection.3.3}
-\contentsline {subsection}{\numberline {3.4}INSTRUMENT}{9}{subsection.3.4}
-\contentsline {subsection}{\numberline {3.5}DATA PREPARATION}{10}{subsection.3.5}
-\contentsline {subsection}{\numberline {3.6}TECHNIQUES USED}{10}{subsection.3.6}
-\contentsline {subsection}{\numberline {3.7}LIMITATIONS}{10}{subsection.3.7}
-\contentsline {subsection}{\numberline {3.8}SUMMARY}{10}{subsection.3.8}
-\contentsline {section}{\numberline {4}DATA ANALYSIS}{11}{section.4}
-\contentsline {subsection}{\numberline {4.1}INTRODUCTION}{11}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}SCALE RELIABLITY}{11}{subsection.4.2}
-\contentsline {subsection}{\numberline {4.3}DEMOGRAPHICS}{11}{subsection.4.3}
-\contentsline {subsection}{\numberline {4.4}DESCRIPTIVE STATISTICS}{12}{subsection.4.4}
-\contentsline {subsection}{\numberline {4.5}REGRESSION ANALYSIS}{13}{subsection.4.5}
-\contentsline {section}{\numberline {5}SUMMARY}{16}{section.5}
-\contentsline {section}{\numberline {6}CONCLUSION}{17}{section.6}
-\contentsline {subsection}{\numberline {6.1}FINDINGS}{17}{subsection.6.1}
-\contentsline {subsection}{\numberline {6.2}CONCLUSION}{17}{subsection.6.2}
-\contentsline {subsection}{\numberline {6.3}FUTURE WORK}{17}{subsection.6.3}
-\contentsline {section}{\numberline {7}REFERENCES}{18}{section.7}
+\contentsline {subsection}{\numberline {2.1}PSYCHOLOGICAL CONTRACT VIOLATION}{7}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}CUSTOMER SATISFACTION}{8}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}LOYALTY}{8}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}SCOPE OF THE STUDY}{9}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}PROPOSED MODEL}{9}{subsection.2.5}
+\contentsline {subsection}{\numberline {2.6}RESEARCH GAP}{10}{subsection.2.6}
+\contentsline {section}{\numberline {3}METHODOLOGY}{11}{section.3}
+\contentsline {subsection}{\numberline {3.1}INTRODUCTION}{11}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}HYPOTHESIS}{11}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}DATA COLLECTION}{11}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}INSTRUMENT}{11}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}DATA PREPARATION}{12}{subsection.3.5}
+\contentsline {subsection}{\numberline {3.6}TECHNIQUES USED}{12}{subsection.3.6}
+\contentsline {subsection}{\numberline {3.7}LIMITATIONS}{12}{subsection.3.7}
+\contentsline {subsection}{\numberline {3.8}SUMMARY}{12}{subsection.3.8}
+\contentsline {section}{\numberline {4}DATA ANALYSIS}{13}{section.4}
+\contentsline {subsection}{\numberline {4.1}INTRODUCTION}{13}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}SCALE RELIABLITY}{13}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}DEMOGRAPHICS}{13}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}DESCRIPTIVE STATISTICS}{14}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}REGRESSION ANALYSIS}{15}{subsection.4.5}
+\contentsline {section}{\numberline {5}SUMMARY}{18}{section.5}
+\contentsline {section}{\numberline {6}CONCLUSION}{19}{section.6}
+\contentsline {subsection}{\numberline {6.1}FINDINGS}{19}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}CONCLUSION}{19}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}FUTURE WORK}{19}{subsection.6.3}
+\contentsline {section}{\numberline {7}REFERENCES}{20}{section.7}
