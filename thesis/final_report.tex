@@ -1,4 +1,4 @@
-\documentclass[a4paper, 14pt]{article}
+\documentclass[a4paper, 14pt]{extarticle}
 \usepackage{float}
 \usepackage{geometry}
 \usepackage{graphicx}
@@ -7,7 +7,7 @@
 \usepackage{lmodern}
 \usepackage[hidelinks]{hyperref}
 
-\linespread{2}
+\linespread{1.5}
 \newcommand\tab[1][1cm]{\hspace*{#1}}
 \geometry{left=20mm,right=20mm,top=20mm,bottom=20mm}
 \begin{document}
@@ -33,11 +33,9 @@
 \centering
 \includegraphics[scale=0.5]{anna_univ_logo.jpg}
 \end{figure}
-\tab \\
-\textbf{\fontsize{14}{2} \selectfont COLLEGE OF ENGINEERING, GUINDY}\\
+\textbf{\fontsize{14}{2} \selectfont DEPARTMENT OF MANAGEMENT STUDIES, \\COLLEGE OF ENGINEERING, GUINDY}\\
 \tab \\
 \textbf{\fontsize{16}{2} \selectfont ANNA UNIVERSITY : CHENNAI 600 025}\\
-\tab \\
 {\fontsize{14}{2} \selectfont MAY 2018}\\
 \end{center}
 	
@@ -72,7 +70,7 @@ Certified that this project report \textbf{"POST MERGER ANALYSIS OF CUSTOMER SAT
 %abstract
 \newpage
 \begin{center}
-\textbf{\fontsize{16}{2} \selectfont ABSTRACT}\\
+\textbf{\fontsize{14}{2} \selectfont ABSTRACT}\\
 \end{center}
 \par Mergers typically involve two relatively equal companies making the mutually beneficial decision to become a single legal entity. They are different from acquisitions, which usually involve a larger company absorbing a smaller company, sometimes against the will of the smaller company?s management. Mergers are undertaken to improve long-term shareholder value and overall company performance. They are often done to reduce operating costs, improve market pentration and diversification.
 \par A satisfied customer remains loyal and spreads positive word of mouth. Mergers and acquisitions often focus on financial aspects but rarely consider the customer facet of mergers. Studies show that 2/3 rd of mergers fail due to dissatisfied customers.A dissatisfied customer also switches the brand.Merger process are often done without considering the customers. Studies have found that more than half of all mergers fail to deliver the intended improvement in stakeholder value and that customer defections contribute to that high failure rate. Thus, a harmonious integration of the beliefs and values of a merging firm and the ability to integrate organisational cultures is more important to success than the financial or strategic factors. Customer switching also increases post merger. This study aims to find out loyalty and customer satisfaction post merger considering various factors such as demographics, brand image, psychological breach of contract etc taking the recent merger of associate banks of SBI with itself as a case study.
@@ -243,7 +241,10 @@ The research problem has already been identified and described in chapter 1. Bas
 
 \subsection{DATA COLLECTION}
 \par The data is collected using survey method using a questionnaire. Convenience sampling is followed in this study. The research units comprised of customers of State Bank of India (SBI) after merger; that is, previously, they were employees of State Bank of Mysore (SBM), State Bank of Hyderabad (SBH), State Bank of Travancore (SBT). The target population consisted of all customers belonging to the recently- merged SBI. 
+\subsection{PRIMARY DATA}
 \par Around 101 responses were obtained. Data was collected in both online and offline modes. For online mode data collection, twitter was used as a medium to convey about the survey. Tweeters who have mentioned any of the above banks in their tweets were identified based on the tweet content and they were contacted using Twitter mentions to obtain data. Around 25 samples were collected from offline mode. The rest of the data was collected using online mode.
+\subsection{SECONDARY DATA}
+In addition, we crawled the Mouthshut.com sites to obtain reviews and ratings of SBT, SBBJ, SBM, SBH and SBP customers. Ratings were also obtained.
 
 \subsection{INSTRUMENT}
 The questionnaire consists of 27 questions and 8 standard scales were used.PCV was measured using Psycones (2005)  5 point scale. Service performance was measured using Cronin, Brady, Thomas, Hult (2000)  5 point scale. Customer satisfaction was measured using 
@@ -253,7 +254,10 @@ Angelova , Zekiri (2011)  5 point scale and Cronin, Brady, Thomas, Hult (2000)  
 The data collected was checked for missing values and the complete dataset was used for comprehensive analysis.
 
 \subsection{TECHNIQUES USED}
-Statistical analyses were made using SPSS. Descriptive statistics, regression analysis were performed. The statistical techniques to be used here also include scale reliability assessment using Cronbach?s Alpha (Cronbach, 1951). Each of the hypotheses (H1 to H5) is tested using linear regression analysis. It helps to apprehend how the distinctive value of the dependent variable changes when any one of the independent variables is varied, while the other independent variables are held fixed. 
+For primary data statistical analyses were made using SPSS. Descriptive statistics, regression analysis were performed. The statistical techniques to be used here also include scale reliability assessment using Cronbach?s Alpha (Cronbach, 1951). Each of the hypotheses (H1 to H5) is tested using linear regression analysis. It helps to apprehend how the distinctive value of the dependent variable changes when any one of the independent variables is varied, while the other independent variables are held fixed.
+
+Reviews and ratings from mouthshut.com was obtained using a python script. The obtained data was analysed using R. Sentiment analysis and correlation of ratings vs review content were performed.
+ 
 
 \subsection{LIMITATIONS}
 The survey was carried out in the premises of SBI and SBT (pollachi), SBM and SBH (Coimbatore) SBH, SBH (Thiruvanmiyur). In addition online survey was also conducted and the responses obtained was from places like Chennai, Jaipur, Trichy and Bangalore. Most of the responses were from male. So this survey has gender bias. In addition online mode responses may not be understood properly by the respondents due to lack of instant communication. 
@@ -322,7 +326,7 @@ Loyalty & 3.07 & .368 & 101 \\
 \end{table} 
 
 \begin{table}[H]
-\centering
+
 \begin{tabular}{|c|c|c|}
 \hline
 Question & Mean & SD \\
@@ -470,7 +474,34 @@ Overall service explains 89.9\% variance in customer satisfaction.
 
 Customer satisfaction and loyalty are postively correlated. This indicates a satisfied customer will be more loyal to the bank and spreads word of mouth. H4 is accepted.Customer satisfaction influences 14.8\% of variance in loyalty.
 
+\section{CUSTOMER SATISFACTION INDEX}
+The American Customer Satisfaction Index (ACSI) is an economic indicator that measures the satisfaction of consumers across the U.S. economy. It is produced by the American Customer Satisfaction Index (ACSI LLC) based in Ann Arbor, Michigan.
+
+\subsection{CUSTOMER SATISFACTION INDEX CALCULATION}
+A company's ACSI score is derived from three manifest variables (i.e. survey questions) within the ACSI questionnaire, each rated on a 1-10 scale by the respondents interviewed for that company, government agency, or other organization.
+
+\begin{table}[H]
+\begin{tabular}{|c|c|c|}
+\hline
+Manifest variable & 1 & 10 \\
+\hline
+Overall Satisfaction (X1) & Very dissatisfied & Very satisfied \\
+\hline
+Expectancy disconfirmation (X2) & Falls short of your expectation & Exceeds your expectation \\
+\hline
+Comparison to an ideal (X3) & Not close to ideal * Very close to the ideal\\
+\hline
+\end{tabular}
+\caption{CUSTOMER SATISFACTION INDEX - CALCULATION}
+\end{table}
+The 0-100 ACSI score is estimated using the mean for each variable from the n responses for that company (X1, X2, X3), along with the weights for each question as calculated within the ACSI structural equation model (W1, W2, W3):\\ 
+\[ (((X1*W1)+(X2*W2)+(X3*W3))-1)/9*100 \]
+\par The state of Ohio uses the following weights: \\
+\[ ((Satisfaction-1)*.3885 + (Expectancy-1)*.3190 + (Performance-1)*.2925) / 9 * 100 \]
+\textbf{\emph{Applying our values, ACSI score was found to be 43.78.}}
+
 \section{SUMMARY}
+
 The data collected from customers of State Bank of India across the major cities of India were analyzed, hypotheses were tested. Using these interpretations, the summary of findings is discussed in the next Chapter.
 
 %conclusion
