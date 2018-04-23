@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.2)  21 APR 2018 09:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.2)  23 APR 2018 07:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -9,8 +9,8 @@ LaTeX2e <2017-04-15>
 Babel <3.10> and hyphenation patterns for 22 language(s) loaded.
 (/usr/local/texlive/2017basic/texmf-dist/tex/latex/extsizes/extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
-(/usr/local/texlive/2017basic/texmf-dist/tex/latex/extsizes/size14.clo
-File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 (/usr/local/texlive/2017basic/texmf-dist/tex/latex/base/exscale.sty
 Package: exscale 2014/09/29 v2.1h Standard LaTeX package exscale
@@ -33,20 +33,12 @@ LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 \belowcaptionskip=\skip42
 \bibindent=\dimen103
 )
-(/usr/local/texlive/2017basic/texmf-dist/tex/latex/float/float.sty
-Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count87
-\float@exts=\toks14
-\float@box=\box26
-\@float@everytoks=\toks15
-\@floatcapt=\box27
-)
 (/usr/local/texlive/2017basic/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
 (/usr/local/texlive/2017basic/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks16
+\KV@toks@=\toks14
 )
 (/usr/local/texlive/2017basic/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
@@ -58,9 +50,9 @@ Package ifvtex Info: VTeX not detected.
 (/usr/local/texlive/2017basic/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count88
-\Gm@cntv=\count89
-\c@Gm@tempcnt=\count90
+\Gm@cnth=\count87
+\Gm@cntv=\count88
+\c@Gm@tempcnt=\count89
 \Gm@bindingoffset=\dimen104
 \Gm@wd@mp=\dimen105
 \Gm@odd@mp=\dimen106
@@ -69,7 +61,15 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutheight=\dimen109
 \Gm@layouthoffset=\dimen110
 \Gm@layoutvoffset=\dimen111
-\Gm@dimlist=\toks17
+\Gm@dimlist=\toks15
+)
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count90
+\float@exts=\toks16
+\float@box=\box26
+\@float@everytoks=\toks17
+\@floatcapt=\box27
 )
 (/usr/local/texlive/2017basic/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
@@ -567,24 +567,27 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip43
-) (./final_report.aux)
+) (/usr/local/texlive/2017basic/texmf-dist/tex/latex/chngcntr/chngcntr.sty
+Package: chngcntr 2009/09/02 v1.0a change counter resetting
+)
+(./final_report.aux)
 \openout1 = `final_report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 13.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 17.
 
 (/usr/local/texlive/2017basic/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -605,15 +608,15 @@ File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 * \textheight=731.23584pt
 * \oddsidemargin=-15.36449pt
 * \evensidemargin=-15.36449pt
-* \topmargin=-54.36449pt
-* \headheight=14.0pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=14.0pt
+* \topskip=12.0pt
 * \footskip=30.0pt
-* \marginparwidth=15.0pt
+* \marginparwidth=35.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=12.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -653,7 +656,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \AtBeginShipoutBox=\box29
-Package hyperref Info: Link coloring OFF on input line 13.
+Package hyperref Info: Link coloring OFF on input line 17.
  (/usr/local/texlive/2017basic/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
@@ -663,42 +666,42 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count108
 )
-LaTeX Info: Redefining \ref on input line 13.
-LaTeX Info: Redefining \pageref on input line 13.
-LaTeX Info: Redefining \nameref on input line 13.
+LaTeX Info: Redefining \ref on input line 17.
+LaTeX Info: Redefining \pageref on input line 17.
+LaTeX Info: Redefining \nameref on input line 17.
  (./final_report.out) (./final_report.out)
 \@outlinefile=\write3
 \openout3 = `final_report.out'.
 
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 16.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 20.
 
 (/usr/local/texlive/2017basic/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 18.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 22.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <18> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 18.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 22.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 20.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 24.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <14> not available
-(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 22.
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 26.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <16> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 26.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 29.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 30.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 33.
 
-<anna_univ_logo.jpg, id=184, 230.8625pt x 219.82124pt>
+<anna_univ_logo.jpg, id=209, 230.8625pt x 219.82124pt>
 File: anna_univ_logo.jpg Graphic file (type jpg)
 
 <use anna_univ_logo.jpg>
-Package pdftex.def Info: anna_univ_logo.jpg used on input line 34.
+Package pdftex.def Info: anna_univ_logo.jpg used on input line 38.
 (pdftex.def)             Requested size: 115.43095pt x 109.91034pt.
  [1
 
 {/usr/local/texlive/2017basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./
 anna_univ_logo.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 49--53
+Underfull \hbox (badness 10000) in paragraph at lines 53--57
 
  []
 
@@ -719,11 +722,11 @@ LaTeX Font Info:    Try loading font information for OMX+lmex on input line 2.
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <14.4> on input line 2.
+(Font)              <12> on input line 2.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 2.
+(Font)              <8> on input line 2.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 2.
+(Font)              <6> on input line 2.
  [5])
 \tf@toc=\write4
 \openout4 = `final_report.toc'.
@@ -737,175 +740,294 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 \tf@lot=\write6
 \openout6 = `final_report.lot'.
 
- [7] [1] [2]
-Overfull \hbox (1.44821pt too wide) in paragraph at lines 134--136
-[]\OT1/ptm/m/n/14.4 Healthy bank merged with an-other healthy bank to be-come f
-i-nan-cially stronger,
- []
+ [7] [1] [2] [3] [4]
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 185.
 
-[3]
-Overfull \hbox (33.40968pt too wide) in paragraph at lines 145--145
-[]\OT1/lmr/bx/n/17.28 REASON FOR SBI AND IT'S AS-SO-CIATES MERGER 
- []
 
-[4]
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 155.
-
- (/usr/local/texlive/2017basic/texmf-dist/tex/latex/psnfss/omsptm.fd
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
-LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <14.4> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 155.
-
-[5] [6] [7] [8] [9] [10] [11] <model.png, id=382, 917.4275pt x 334.24875pt>
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 185.
+ [5]
+[6] [7] [8] [9] <model.png, id=412, 917.4275pt x 334.24875pt>
 File: model.png Graphic file (type png)
-
-<use model.png>
-Package pdftex.def Info: model.png used on input line 222.
+ <use model.png>
+Package pdftex.def Info: model.png used on input line 252.
 (pdftex.def)             Requested size: 458.71263pt x 167.12396pt.
- [12] [13 <./model.png>] [14] [15] [16]
-<age.png, id=406, 650.43pt x 493.845pt>
+
+[10] [11 <./model.png>] [12] [13] [14] <age.png, id=437, 650.43pt x 493.845pt>
 File: age.png Graphic file (type png)
- <use age.png>
-Package pdftex.def Info: age.png used on input line 300.
+
+<use age.png>
+Package pdftex.def Info: age.png used on input line 330.
 (pdftex.def)             Requested size: 455.2979pt x 345.68913pt.
- [17] [18 <./age.png>]
-Overfull \hbox (66.35579pt too wide) in paragraph at lines 330--389
-[][] 
+ [15] [16 <./age.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 424--425
+
  []
 
-[19]
-Overfull \hbox (64.94525pt too wide) in paragraph at lines 399--412
- [][] 
+
+Underfull \hbox (badness 10000) in paragraph at lines 426--427
+
  []
 
-[20] <pcv_vs_customer_satisfaction.png, id=427, 367.3725pt x 109.1578pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 428--429
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 430--431
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 432--433
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 434--435
+
+ []
+
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 436--437
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 438--439
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 440--441
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 442--443
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 444--445
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 446--447
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 448--449
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 450--451
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 452--453
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 454--455
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 456--457
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--459
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 460--461
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 462--463
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 464--465
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 466--467
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 468--469
+
+ []
+
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 470--471
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 472--473
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 474--475
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 476--477
+
+ []
+
+[19] <pcv_vs_customer_satisfaction.png, id=461, 367.3725pt x 109.1578pt>
 File: pcv_vs_customer_satisfaction.png Graphic file (type png)
 
 <use pcv_vs_customer_satisfaction.png>
-Package pdftex.def Info: pcv_vs_customer_satisfaction.png used on input line 41
-8.
+Package pdftex.def Info: pcv_vs_customer_satisfaction.png used on input line 50
+4.
 (pdftex.def)             Requested size: 367.37158pt x 109.15753pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 415--420
+Underfull \hbox (badness 10000) in paragraph at lines 501--506
 
  []
 
-<anova_pcv_cs.png, id=428, 406.51875pt x 149.8097pt>
+<anova_pcv_cs.png, id=462, 406.51875pt x 149.8097pt>
 File: anova_pcv_cs.png Graphic file (type png)
  <use anova_pcv_cs.png>
-Package pdftex.def Info: anova_pcv_cs.png used on input line 424.
+Package pdftex.def Info: anova_pcv_cs.png used on input line 510.
 (pdftex.def)             Requested size: 406.51775pt x 149.80931pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 428--430
+Underfull \hbox (badness 10000) in paragraph at lines 514--516
 
  []
 
-<service_performance_vs_service.png, id=429, 362.85562pt x 104.64093pt>
+<service_performance_vs_service.png, id=463, 362.85562pt x 104.64093pt>
 File: service_performance_vs_service.png Graphic file (type png)
 
 <use service_performance_vs_service.png>
 Package pdftex.def Info: service_performance_vs_service.png used on input line 
-434.
+520.
 (pdftex.def)             Requested size: 362.85474pt x 104.64066pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 431--436
+Underfull \hbox (badness 10000) in paragraph at lines 517--522
 
  []
 
-[21 <./pcv_vs_customer_satisfaction.png> <./anova_pcv_cs.png> <./service_perfor
-mance_vs_service.png>] <anova_s_sp.png, id=437, 426.09187pt x 148.30406pt>
+<anova_s_sp.png, id=464, 426.09187pt x 148.30406pt>
 File: anova_s_sp.png Graphic file (type png)
-
-<use anova_s_sp.png>
-Package pdftex.def Info: anova_s_sp.png used on input line 442.
+ <use anova_s_sp.png>
+Package pdftex.def Info: anova_s_sp.png used on input line 528.
 (pdftex.def)             Requested size: 426.09082pt x 148.30368pt.
- <sp_vs_cs.png, id=438, 359.09157pt x 103.13531pt>
+
+[20 <./pcv_vs_customer_satisfaction.png> <./anova_pcv_cs.png> <./service_perfor
+mance_vs_service.png>] <sp_vs_cs.png, id=472, 359.09157pt x 103.13531pt>
 File: sp_vs_cs.png Graphic file (type png)
 
 <use sp_vs_cs.png>
-Package pdftex.def Info: sp_vs_cs.png used on input line 449.
+Package pdftex.def Info: sp_vs_cs.png used on input line 535.
 (pdftex.def)             Requested size: 359.09068pt x 103.13504pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 446--451
+Underfull \hbox (badness 10000) in paragraph at lines 532--537
 
  []
 
-<anova_css.png, id=439, 420.82219pt x 164.11313pt>
+<anova_css.png, id=473, 420.82219pt x 164.11313pt>
 File: anova_css.png Graphic file (type png)
  <use anova_css.png>
-Package pdftex.def Info: anova_css.png used on input line 458.
+Package pdftex.def Info: anova_css.png used on input line 544.
 (pdftex.def)             Requested size: 420.82115pt x 164.11272pt.
- [22 <./anova_s_sp.png> <./sp_vs_cs.png>] [23 <./anova_css.png>]
-<customer_satisfaction_vs_loyalty.png, id=450, 366.61969pt x 106.14656pt>
+ [21 <./anova_s_sp.png> <./sp_vs_cs.png> <./anova_css.png>]
+<customer_satisfaction_vs_loyalty.png, id=480, 366.61969pt x 106.14656pt>
 File: customer_satisfaction_vs_loyalty.png Graphic file (type png)
 
 <use customer_satisfaction_vs_loyalty.png>
 Package pdftex.def Info: customer_satisfaction_vs_loyalty.png used on input lin
-e 466.
+e 552.
 (pdftex.def)             Requested size: 366.61879pt x 106.1463pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--468
+Underfull \hbox (badness 10000) in paragraph at lines 549--554
 
  []
 
-<anova_cs_lo.png, id=451, 426.09187pt x 151.3153pt>
+<anova_cs_lo.png, id=481, 426.09187pt x 151.3153pt>
 File: anova_cs_lo.png Graphic file (type png)
  <use anova_cs_lo.png>
-Package pdftex.def Info: anova_cs_lo.png used on input line 471.
+Package pdftex.def Info: anova_cs_lo.png used on input line 557.
 (pdftex.def)             Requested size: 426.09082pt x 151.31493pt.
 
-[24 <./customer_satisfaction_vs_loyalty.png> <./anova_cs_lo.png>]
-Overfull \hbox (176.12613pt too wide) in paragraph at lines 484--495
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 497--498
+[22 <./customer_satisfaction_vs_loyalty.png> <./anova_cs_lo.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 584--585
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 499--500
+Underfull \hbox (badness 10000) in paragraph at lines 586--587
 
  []
 
+<ratings_distribution.png, id=488, 301.125pt x 351.3125pt>
+File: ratings_distribution.png Graphic file (type png)
 
-Overfull \hbox (38.19696pt too wide) detected at line 500
-\OT1/lmr/m/n/14.4 ((\OML/lmm/m/it/14.4 Satisfaction \OMS/lmsy/m/n/14.4 ^^@ \OT1
-/lmr/m/n/14.4 1) \OMS/lmsy/m/n/14.4 ^^C \OML/lmm/m/it/14.4 :\OT1/lmr/m/n/14.4 3
-885 + (\OML/lmm/m/it/14.4 Expectancy \OMS/lmsy/m/n/14.4 ^^@ \OT1/lmr/m/n/14.4 1
-) \OMS/lmsy/m/n/14.4 ^^C \OML/lmm/m/it/14.4 :\OT1/lmr/m/n/14.4 3190 + (\OML/lmm
-/m/it/14.4 Performance \OMS/lmsy/m/n/14.4 ^^@ \OT1/lmr/m/n/14.4 1) \OMS/lmsy/m/
-n/14.4 ^^C \OML/lmm/m/it/14.4 :\OT1/lmr/m/n/14.4 2925)\OML/lmm/m/it/14.4 =\OT1/
-lmr/m/n/14.4 9 \OMS/lmsy/m/n/14.4 ^^C \OT1/lmr/m/n/14.4 100
+<use ratings_distribution.png>
+Package pdftex.def Info: ratings_distribution.png used on input line 594.
+(pdftex.def)             Requested size: 301.12425pt x 351.31163pt.
+ [23]
+<freq_words.png, id=494, 540.0175pt x 400.49625pt>
+File: freq_words.png Graphic file (type png)
+ <use freq_words.png>
+Package pdftex.def Info: freq_words.png used on input line 600.
+(pdftex.def)             Requested size: 270.00809pt x 200.24763pt.
+
+<price_action.png, id=495, 540.0175pt x 400.49625pt>
+File: price_action.png Graphic file (type png)
+ <use price_action.png>
+Package pdftex.def Info: price_action.png used on input line 607.
+(pdftex.def)             Requested size: 432.01459pt x 320.39743pt.
+
+[24 <./ratings_distribution.png> <./freq_words.png>] [25 <./price_action.png>]
+[26]
+Overfull \hbox (0.96732pt too wide) in paragraph at lines 638--639
+\OT1/ptm/m/n/12 During re-sponse col-lec-tion it was found that, many of the pe
+o-ple pre-ferred pri-vate banks over SBI/PSU
  []
 
-[25]
-Overfull \hbox (0.51248pt too wide) in paragraph at lines 511--512
-\OT1/ptm/m/n/14.4 has not made much neg-a-tive im-pact on its cus-tomers. Psy-c
-ho-log-i-cal Con-tract Breach,
- []
-
-[26] [27] [28] [29]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 559.
+[27] [28] [29]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 672.
  [30]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 559.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 672.
  (./final_report.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 559.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 559.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 672.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 672.
 Package rerunfilecheck Info: File `final_report.out' has not changed.
-(rerunfilecheck)             Checksum: A00277BDACE4C80F03C9733E29F1D24E;2945.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 559.
+(rerunfilecheck)             Checksum: AA0156995A4802881BEC2BD161719BAF;3457.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 672.
  ) 
 Here is how much of TeX's memory you used:
- 6361 strings out of 494437
- 95588 string characters out of 6166646
- 183070 words of memory out of 5000000
- 9440 multiletter control sequences out of 15000+600000
- 45120 words of font info for 50 fonts, out of 8000000 for 9000
+ 6409 strings out of 494437
+ 96550 string characters out of 6166646
+ 184582 words of memory out of 5000000
+ 9470 multiletter control sequences out of 15000+600000
+ 45092 words of font info for 50 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 28i,9n,28p,1904b,455s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28i,9n,28p,1904b,459s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017basic/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/u
 sr/local/texlive/2017basic/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/lo
 cal/texlive/2017basic/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/texliv
@@ -919,10 +1041,10 @@ ts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/ty
 pe1/urw/times/utmbi8a.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/
 urw/times/utmr8a.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/urw/t
 imes/utmri8a.pfb>
-Output written on final_report.pdf (37 pages, 349234 bytes).
+Output written on final_report.pdf (37 pages, 413938 bytes).
 PDF statistics:
- 577 PDF objects out of 1000 (max. 8388607)
- 503 compressed objects within 6 object streams
- 156 named destinations out of 1000 (max. 500000)
- 416 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 624 PDF objects out of 1000 (max. 8388607)
+ 544 compressed objects within 6 object streams
+ 166 named destinations out of 1000 (max. 500000)
+ 479 words of extra memory for PDF output out of 10000 (max. 10000000)
 

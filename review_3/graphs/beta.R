@@ -1,5 +1,5 @@
-beta <- read.csv("data/beta.csv")
 beta_plot <- function () {
+  beta <- read.csv("data/beta.csv")
   g <- ggplot(beta, aes(x, group=1, colour=c(sbm, sbt, sbi, sbbj)))
   g <- g + geom_line(aes(y=sbm), color="red")
   g <- g + geom_line(aes(y=sbt), color="blue")
@@ -21,4 +21,4 @@ beta_plot_1 <- function () {
   g <- g + geom_line(aes(y=till_merger))
   g
 }
-beta_plot_1()
+beta_plot()

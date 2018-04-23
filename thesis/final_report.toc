@@ -1,45 +1,51 @@
 \contentsline {section}{\numberline {1}INTRODUCTION}{1}{section.1}
 \contentsline {subsection}{\numberline {1.1}LIST OF PUBLIC SECTOR BANKS IN INDIA}{1}{subsection.1.1}
-\contentsline {subsection}{\numberline {1.2}FORMATION OF SBI AND ASSOCIATE BANKS}{2}{subsection.1.2}
-\contentsline {subsection}{\numberline {1.3}MERGERS AND ACQUISTIONS IN BANKING SECTOR}{3}{subsection.1.3}
-\contentsline {subsection}{\numberline {1.4}SBI AND IT'S ASSOCIATES MERGER}{4}{subsection.1.4}
-\contentsline {subsection}{\numberline {1.5}REASON FOR SBI AND IT'S ASSOCIATES MERGER}{4}{subsection.1.5}
-\contentsline {subsection}{\numberline {1.6}ADVANTAGES OF MERGER}{6}{subsection.1.6}
-\contentsline {subsection}{\numberline {1.7}DISADVANTAGES OF MERGER}{6}{subsection.1.7}
-\contentsline {subsection}{\numberline {1.8}PROBLEM STATEMENT}{7}{subsection.1.8}
-\contentsline {subsection}{\numberline {1.9}NEED FOR THE STUDY}{8}{subsection.1.9}
-\contentsline {subsection}{\numberline {1.10}OBJECTIVES}{8}{subsection.1.10}
-\contentsline {subsubsection}{\numberline {1.10.1}PRIMARY OBJECTIVE}{8}{subsubsection.1.10.1}
-\contentsline {subsubsection}{\numberline {1.10.2}SECONDARY OBJECTIVE}{8}{subsubsection.1.10.2}
-\contentsline {section}{\numberline {2}LITERATURE REVIEW}{9}{section.2}
-\contentsline {subsection}{\numberline {2.1}PSYCHOLOGICAL CONTRACT VIOLATION}{10}{subsection.2.1}
-\contentsline {subsection}{\numberline {2.2}CUSTOMER SATISFACTION}{11}{subsection.2.2}
-\contentsline {subsection}{\numberline {2.3}LOYALTY}{11}{subsection.2.3}
-\contentsline {subsection}{\numberline {2.4}SCOPE OF THE STUDY}{12}{subsection.2.4}
-\contentsline {subsection}{\numberline {2.5}PROPOSED MODEL}{13}{subsection.2.5}
-\contentsline {subsection}{\numberline {2.6}RESEARCH GAP}{13}{subsection.2.6}
-\contentsline {section}{\numberline {3}METHODOLOGY}{14}{section.3}
-\contentsline {subsection}{\numberline {3.1}INTRODUCTION}{14}{subsection.3.1}
-\contentsline {subsection}{\numberline {3.2}HYPOTHESIS}{14}{subsection.3.2}
-\contentsline {subsection}{\numberline {3.3}DATA COLLECTION}{14}{subsection.3.3}
-\contentsline {subsection}{\numberline {3.4}PRIMARY DATA}{14}{subsection.3.4}
-\contentsline {subsection}{\numberline {3.5}SECONDARY DATA}{15}{subsection.3.5}
-\contentsline {subsection}{\numberline {3.6}INSTRUMENT}{15}{subsection.3.6}
-\contentsline {subsection}{\numberline {3.7}DATA PREPARATION}{15}{subsection.3.7}
-\contentsline {subsection}{\numberline {3.8}TECHNIQUES USED}{15}{subsection.3.8}
-\contentsline {subsection}{\numberline {3.9}LIMITATIONS}{16}{subsection.3.9}
-\contentsline {subsection}{\numberline {3.10}SUMMARY}{16}{subsection.3.10}
-\contentsline {section}{\numberline {4}DATA ANALYSIS}{17}{section.4}
-\contentsline {subsection}{\numberline {4.1}INTRODUCTION}{17}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}SCALE RELIABLITY}{17}{subsection.4.2}
-\contentsline {subsection}{\numberline {4.3}DEMOGRAPHICS}{17}{subsection.4.3}
-\contentsline {subsection}{\numberline {4.4}DESCRIPTIVE STATISTICS}{18}{subsection.4.4}
-\contentsline {subsection}{\numberline {4.5}REGRESSION ANALYSIS}{20}{subsection.4.5}
-\contentsline {section}{\numberline {5}CUSTOMER SATISFACTION INDEX}{24}{section.5}
-\contentsline {subsection}{\numberline {5.1}CUSTOMER SATISFACTION INDEX CALCULATION}{25}{subsection.5.1}
-\contentsline {section}{\numberline {6}SUMMARY}{25}{section.6}
-\contentsline {section}{\numberline {7}CONCLUSION}{26}{section.7}
-\contentsline {subsection}{\numberline {7.1}FINDINGS}{26}{subsection.7.1}
-\contentsline {subsection}{\numberline {7.2}CONCLUSION}{27}{subsection.7.2}
-\contentsline {subsection}{\numberline {7.3}FUTURE WORK}{27}{subsection.7.3}
-\contentsline {section}{\numberline {8}REFERENCES}{28}{section.8}
+\contentsline {subsection}{\numberline {1.2}BRIEF HISTORY OF SBI}{2}{subsection.1.2}
+\contentsline {subsubsection}{\numberline {1.2.1}FORMATION OF SBI AND ASSOCIATE BANKS}{2}{subsubsection.1.2.1}
+\contentsline {subsection}{\numberline {1.3}SHARE HOLDING PATTERN OF SBI}{3}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}MERGERS AND ACQUISTIONS IN BANKING SECTOR}{3}{subsection.1.4}
+\contentsline {subsection}{\numberline {1.5}SBI AND IT'S ASSOCIATES MERGER}{4}{subsection.1.5}
+\contentsline {subsection}{\numberline {1.6}REASON FOR SBI AND IT'S ASSOCIATES MERGER}{4}{subsection.1.6}
+\contentsline {subsection}{\numberline {1.7}ADVANTAGES OF MERGER}{5}{subsection.1.7}
+\contentsline {subsection}{\numberline {1.8}DISADVANTAGES OF MERGER}{6}{subsection.1.8}
+\contentsline {subsection}{\numberline {1.9}PROBLEM STATEMENT}{6}{subsection.1.9}
+\contentsline {subsection}{\numberline {1.10}NEED FOR THE STUDY}{7}{subsection.1.10}
+\contentsline {subsection}{\numberline {1.11}OBJECTIVES}{7}{subsection.1.11}
+\contentsline {subsubsection}{\numberline {1.11.1}PRIMARY OBJECTIVE}{7}{subsubsection.1.11.1}
+\contentsline {subsubsection}{\numberline {1.11.2}SECONDARY OBJECTIVE}{7}{subsubsection.1.11.2}
+\contentsline {section}{\numberline {2}LITERATURE REVIEW}{8}{section.2}
+\contentsline {subsection}{\numberline {2.1}PSYCHOLOGICAL CONTRACT VIOLATION}{8}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}CUSTOMER SATISFACTION}{9}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}LOYALTY}{10}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}SCOPE OF THE STUDY}{10}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}PROPOSED MODEL}{11}{subsection.2.5}
+\contentsline {subsection}{\numberline {2.6}RESEARCH GAP}{11}{subsection.2.6}
+\contentsline {section}{\numberline {3}METHODOLOGY}{12}{section.3}
+\contentsline {subsection}{\numberline {3.1}INTRODUCTION}{12}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}HYPOTHESIS}{12}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}DATA COLLECTION}{12}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}PRIMARY DATA}{12}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}SECONDARY DATA}{12}{subsection.3.5}
+\contentsline {subsection}{\numberline {3.6}INSTRUMENT}{13}{subsection.3.6}
+\contentsline {subsection}{\numberline {3.7}DATA PREPARATION}{13}{subsection.3.7}
+\contentsline {subsection}{\numberline {3.8}TECHNIQUES USED}{13}{subsection.3.8}
+\contentsline {subsection}{\numberline {3.9}LIMITATIONS}{13}{subsection.3.9}
+\contentsline {subsection}{\numberline {3.10}SUMMARY}{14}{subsection.3.10}
+\contentsline {section}{\numberline {4}DATA ANALYSIS}{15}{section.4}
+\contentsline {subsection}{\numberline {4.1}INTRODUCTION}{15}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}SCALE RELIABLITY}{15}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}DEMOGRAPHICS}{15}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}DESCRIPTIVE STATISTICS}{16}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}INDIVIDUAL INTERPRETATION}{17}{subsection.4.5}
+\contentsline {subsection}{\numberline {4.6}REGRESSION ANALYSIS}{19}{subsection.4.6}
+\contentsline {subsection}{\numberline {4.7}CUSTOMER SATISFACTION INDEX}{22}{subsection.4.7}
+\contentsline {subsection}{\numberline {4.8}CUSTOMER SATISFACTION INDEX CALCULATION}{22}{subsection.4.8}
+\contentsline {subsection}{\numberline {4.9}SECONDARY DATA ANALYSIS}{24}{subsection.4.9}
+\contentsline {subsubsection}{\numberline {4.9.1}mouthshut.com REVIEWS ANALYSIS}{24}{subsubsection.4.9.1}
+\contentsline {subsubsection}{\numberline {4.9.2}STOCK MARKET DATA ANALYSIS}{25}{subsubsection.4.9.2}
+\contentsline {subsection}{\numberline {4.10}SUMMARY}{26}{subsection.4.10}
+\contentsline {section}{\numberline {5}CONCLUSION}{27}{section.5}
+\contentsline {subsection}{\numberline {5.1}FINDINGS}{27}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}CONCLUSION}{27}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}FUTURE WORK}{28}{subsection.5.3}
+\contentsline {section}{\numberline {6}REFERENCES}{29}{section.6}
