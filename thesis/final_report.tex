@@ -7,7 +7,15 @@
 \usepackage{lmodern}
 \usepackage[hidelinks]{hyperref}
 \usepackage{chngcntr}
-
+\usepackage{enumitem,amssymb}
+\usepackage{multicol}
+\usepackage{float}
+\usepackage{tabularx}
+\newcounter{magicrownumbers}
+\newcommand\rownumber{\stepcounter{magicrownumbers}\arabic{magicrownumbers}}
+%\newcommand \tab[1][1cm]{\hspace*{#1}}
+\newlist{todolist}{itemize}{2}
+\setlist[todolist]{label=$\square$}
 \counterwithin{figure}{section}
 \counterwithin{table}{section}
 
@@ -272,7 +280,7 @@ The research problem has already been identified and described in chapter 1. Bas
 \subsection{DATA COLLECTION}
 \par The data is collected using survey method using a questionnaire. Convenience sampling is followed in this study. The research units comprised of customers of State Bank of India (SBI) after merger; that is, previously, they were employees of State Bank of Mysore (SBM), State Bank of Hyderabad (SBH), State Bank of Travancore (SBT). The target population consisted of all customers belonging to the recently- merged SBI. 
 \subsection{PRIMARY DATA}
-\par Around 101 responses were obtained. Data was collected in both online and offline modes. For online mode data collection, twitter was used as a medium to convey about the survey. Tweeters who have mentioned any of the above banks in their tweets were identified based on the tweet content and they were contacted using Twitter mentions to obtain data. Around 25 samples were collected from offline mode. The rest of the data was collected using online mode.
+\par Around 100 responses were obtained. Data was collected in both online and offline modes. For online mode data collection, twitter was used as a medium to convey about the survey. Tweeters who have mentioned any of the above banks in their tweets were identified based on the tweet content and they were contacted using Twitter mentions to obtain data. Around 25 samples were collected from offline mode. The rest of the data was collected using online mode.
 \subsection{SECONDARY DATA}
 In addition, we crawled the Mouthshut.com sites to obtain reviews and ratings of SBT, SBBJ, SBM, SBH and SBP customers. Out of the 5 associate banks merged, SBT, SBM and SBBJ were listed in BSE. The historic prices of those stocks along with SBI for the period before and after merger were obtained from BSE site.
 
@@ -324,7 +332,7 @@ Customer Loyalty & \textbf{0.927} & 5 \\
 \par According to Nunally(1978), Cronbach's coefficient alphas above the threshold value of 0.7 is sufficient to prove the reliability of the scales. It is evident from the table that the scales used are internally reliable. From table it is clear that all scales are reliable. Customer satisfaction and customer loyalty scales are highly reliable since their value is greater than 0.9.
 
 \subsection{DEMOGRAPHICS}
-Out of 101 responses 84 were male (83.2 \%) and 17(16.8 \%) were female. The age distribution of respondents is shown in figure.
+Out of 100 responses 84 were male (83.2 \%) and 17(16.8 \%) were female. The age distribution of respondents is shown in figure.
 \begin{figure}[H]
 \centering
 \includegraphics[scale=0.7]{age.png}
@@ -332,8 +340,14 @@ Out of 101 responses 84 were male (83.2 \%) and 17(16.8 \%) were female. The age
 \end{figure}
 It can be seen that 34 (33.6\%) respondents belong to the age group 25 to 29 while 22 (21.7\%) respondents belong to the age group 30-34. They both form the majority of responses. 15 (14.8 \%) respondents belong to age group 20-24. 8 respondents belong to 35-39 age group. Another 8 respondents belong to age group 40-44.
 
+\subsubsection{ACCOUNT OPENING TIMELINE}
+96\% of respondents have opened an account in any of the 5 associate banks before 2017. It indicates that they are associated with bank even before merger. Since our target is to find the post merger customer satisfaction and loyalty, this percentage is very strong to proceed with our analysis.
+
+\subsubsection{LOCATION}
+Majority of respondents are from Hyderabad (21\%), followed by Chennai (11\%), Bangalore (10\%) and Pune (8\%). The remaining responses were obtained from places like  Trichy, Mumbai, Pune, Ahmedabad etc.
+
 \subsection{DESCRIPTIVE STATISTICS}
-A summary of the descriptive statistics for all study variables is presented in following table. The descriptive statistics presents the mean, the range, minimum and maximum values and standard deviation. The mean age of the respondents (N = 101) was 35.36 years (SD = 12.37). 
+A summary of the descriptive statistics for all study variables is presented in following table. The descriptive statistics presents the mean, the range, minimum and maximum values and standard deviation. The mean age of the respondents (N = 100) was 35.36 years (SD = 12.37). 
 
 \begin{table}[H]
 \centering
@@ -341,15 +355,15 @@ A summary of the descriptive statistics for all study variables is presented in 
 \hline
 Item & \textbf{Mean} & \textbf{SD} & N \\
 \hline
-Customer satisfaction & 2.968 & 1.37 & 101 \\
+Customer satisfaction & 2.968 & 1.37 & 100 \\
 \hline
-PCV & 3.06 & 0.98 & 101 \\
+PCV & 3.06 & 0.98 & 100 \\
 \hline
-Overall service & 2.80 & 1.49 & 101 \\
+Overall service & 2.80 & 1.49 & 100 \\
 \hline
-Service performance & 3.01 & 1.0428 & 101 \\
+Service performance & 3.01 & 1.0428 & 100 \\
 \hline
-Loyalty & 3.07 & .368 & 101 \\
+Loyalty & 3.07 & .368 & 100 \\
 \hline
 \end{tabular}
 \caption{Descriptive Statistics - Overall}
@@ -420,60 +434,107 @@ Question & Mean & SD \\
 \end{table}
 
 \subsection{INDIVIDUAL INTERPRETATION}
+ 
+\par \textbf{ I feel happy about the merger.} \\
+35\% have given 4 and 32\% have given 5. This indicates 67\% of people felt happy about the merger.
 
-\textbf{ I feel happy about the merger.} \\
+\par \textbf{ I feel pleased about the merger} \\
+43\% have rated 4 and 24\% have rated 5. This indicates they are all pleased with merger.\\
 
-\textbf{ I feel pleased about the merger} \\
+\par \textbf{ I feel disappointed about the merger } \\
+Majority 35\% of respondents have given 1 showing that they are not at all disappointed due to merger.\\
 
-\textbf{ I feel disappointed about the merger } \\
-
-\textbf{ I feel violated about the merger} \\
+\par \textbf{ I feel violated about the merger} \\
+Majority 39\% have rated 1 showing they do not feel violated due to merger.\\
 
 \textbf{ I feel grateful about the merger}  \\
+ 45\% have rated 3 followed by 27\% rating 4 indicating that they are neutral regarding this.\\
 
 \textbf{ I have difficulty in obtaining information post merger. } \\
+25\% and 28\% have rated 1 and 2 respectively showing that they have somewhat difficulty in obtaining information after merger.\\
 
-\textbf{ I find difficult to commute.} \\
-    
-\textbf{ I lost my personal care / identity after merger. }  \\
+\par \textbf{ I find difficult to commute.} \\
+ Majority 34\% have responded that they do not have any commuting issues.    
 
-\textbf{ Time required to avail a service.} \\
+\par \textbf{ I lost my personal care / identity after merger. }  \\
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|}
+\hline
+Scale & Response \% \\
+\hline
+1 - Not at all & 23 \% \\
+\hline
+2 - Somewhat & 21 \% \\
+\hline
+3 - Neutral & 21 \% \\
+\hline
+4 - Some extent & 23 \% \\
+\hline
+5 - Very great extent & 15 \% \\
+\hline
+\end{tabular}
+\caption{Loss of identity - responses}
+\label{table:identity_loss}
+\end{table}
+As we can see from table ~\ref{table:identity_loss}, people have rated 1 and 4 mostly followed by 2 and 3, indicating that some people have felt identity loss while some people have not felt identity loss. \\
+\newpage
+\par \textbf{ Time required to avail a service.} \\
+27\% felt that time was very high closely followed by 25\% respondents who felt that time was very same.\\
 
-\textbf{ Effort taken to receive a service.} \\ 
+\par \textbf{ Effort taken to receive a service.} \\ 
+29\% felt that effort taken to receive a service was very high.\\
 
-\textbf{ Employees provide consistent service.} \\  
+\par \textbf{ Employees provide consistent service.} \\  
+31\% have rated 2 indicating that employees consistency of providing service is high. \\
 
-\textbf{ Employees are willing and provide service in a timely manner.} \\
+\par \textbf{ Employees are willing and provide service in a timely manner.} \\
+There was mixed response for this with 23\% of people rating 2 and 3 indicating that employees had high willingness and provided service in a timely manner. \\
 
-\textbf{ Employees are approachable and easy to contact.} \\   
+\par \textbf{ Employees are approachable and easy to contact.} \\   
+Majority 30\% indicated that employees are highly approachable and easy to contact. \\
 
-\textbf{ Employees are courteous, polite and respectful.} \\
+\par \textbf{ Employees are courteous, polite and respectful.} \\
+27\% of rated 3 indicating that employees politenss, courteousness and respectfulness were same. \\
 
-\textbf{ Employees listen and speak to me in  a language I understand.} \\
+\par \textbf{ Employees listen and speak to me in  a language I understand.} \\
+33\% rated 1 and 43\% rated 2 indicting that employees speak in a language that customers understand. \\
 
-\textbf{ Employees are trustworthy, honest and believable.}  \\
+\par \textbf{ Employees are trustworthy, honest and believable.}  \\
+30\% rated 2 while 25\% rated 3 indicating that above attribute was high - same. \\
 
-\textbf{ Employees make effort to understand my needs.} \\
+\par \textbf{ Employees make effort to understand my needs.} \\
+30 of people felt employees put high amount of effort to understand customers needs. \\
 
-\textbf{ Physical facilities and employees are neat and clean.}\\
+\par \textbf{ Physical facilities and employees are neat and clean.}\\
+46\% rated 1 and 41\% rated 2 indicating that physical facilities were highly neat and clean. \\
 
-\textbf{ The overall ability of bank to satisfy my needs and wants is.} \\
+\par \textbf{ The overall ability of bank to satisfy my needs and wants is.} \\
+28\% rated 5 indicating that ability of bank to satisfy needs and want is very low.\\
 
-\textbf{ Overall satisfaction level}  \\
+\par \textbf{ Overall satisfaction level}  \\
+Majority 30\% of people stated that they were very dissatisfied with the bank. \\
 
-\textbf{ To what extent, service has met expectation ?}  \\
+\par \textbf{ To what extent, service has met expectation ?}  \\
+31\% indicated that the servie was much worse than expectation. \\
 
-\textbf{ Compare the current service with before merger.}  \\
+\par \textbf{ Compare the current service with before merger.}  \\
+29\% indicated that they cannot differentiate between pre and post merger. \\
 
-\textbf{ Would you recommend to a friend / relatives?}  \\
+\par \textbf{ Would you recommend to a friend / relatives?}  \\
+42\% said that they wont recommend to a friend. \\
 
-\textbf{ Will you avail service continuosly ?}  \\
+\par \textbf{ Will you avail service continuosly ?}  \\
+32\% said that they will avail service continuosly. \\
 
-\textbf{ Will you open account again ?} \\
+\par \textbf{ Will you open account again ?} \\
+48\% indicated that they wont open account again in the bank.
 
-\textbf{ I had a problem or negative experience after merger?}  \\
+\par \textbf{ I had a problem or negative experience after merger?}  \\
+31\% of respondents strongly agreed that they had a negative experience at some point with the bank.\\
 
-\textbf{ Given an option to switch, I will switch to other banks.} \\
+\par \textbf{ Given an option to switch, I will switch to other banks.} \\
+38\% strongly agreed that they will switch to other banks, if an option is provided.
 
 
 
@@ -587,21 +648,66 @@ The 0-100 ACSI score is estimated using the mean for each variable from the n re
 \[ ((Satisfaction-1)*.3885 + (Expectancy-1)*.3190 + (Performance-1)*.2925) / 9 * 100 \]
 \textbf{\emph{Applying our values, ACSI score was found to be 43.78.}}
 
-\subsection{SECONDARY DATA ANALYSIS}
-\subsubsection{mouthshut.com REVIEWS ANALYSIS}
+\subsection{SECONDARY DATA ANALYSIS - mouthshut.com REVIEWS ANALYSIS}
+\subsubsection{RATINGS ANALYSIS}
+A total of 199 reviews along with ratings and date of review of SBT, SBM, SBBJ, SBP and SBH were crawled from mouthshut.com.
+
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|}
+\hline
+Rating & count \\
+\hline
+1 & 71 \\
+\hline
+2 & 31 \\
+\hline
+3 & 23 \\
+\hline
+4 & 38 \\
+\hline
+5 & 36 \\
+\hline
+\end{tabular}
+\caption{Ratings distribution}
+\end{table}{H}
 \begin{figure}[H]
 \centering
 \includegraphics[scale=1]{ratings_distribution.png}
 \caption{Ratings distribution}
 \end{figure}
 
+The ratings analysis shows that most of the people have given 1 stars (35.6\%), followed by 4 stars (19.1\%) and 5 stars (18.2\%). When 4 and 5 stars are combined we get a percentage of 37.3\% which surpasses the percentage of 1 star ratings. 
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.5]{rat_res.png}
+\caption{Time series ratings}
+\label{fig:rat_res}
+\end{figure}
+
+As we can see from the right half of the figure ~\ref{fig:rat_res}, the curve is constant at the bottom. It indicates that most of the people have given 1 star rating after the merger.
+
 \begin{figure}[H]
 \centering
 \includegraphics[scale=0.5]{freq_words.png}
-\caption{Frequent words in ratings}
+\caption{Frequent words in reviews}
+\label{fig:freq_words}
 \end{figure}
 
-\subsubsection{STOCK MARKET DATA ANALYSIS}
+Figure ~\ref{fig:freq_words} shows the top 10 frequent words found in reviews. They are good, atm, time, money, loan, internet, staff, services, customers.
+
+
+\subsubsection{WORD CLOUD - REVIEWS}
+\begin{figure}[H]
+\centering
+\includegraphics[scale=1]{wordcloud_reviews.png}
+\caption{Reviews word cloud}
+\end{figure}
+
+\par A word cloud is a novelty visual representation of text data, typically used to depict keyword metadata (tags) on websites, or to visualize free form text. Tags are usually single words, and the importance of each tag is shown with font size or color. This format is useful for quickly perceiving the most prominent terms and for locating a term alphabetically to determine its relative prominence. When used as website navigation aids, the terms are hyperlinked to items associated with the tag.
+
+From the word cloud it is clear that people have mostly spoken about loan, staff, internet, credit, time transfer etc. It can be inferred from the word cloud there are keywords associated with positivity like best and negative keywords like worst.
+\subsection{STOCK PRICE ANALYSIS}
 \begin{figure}[H]
 \centering
 \includegraphics[scale=0.8]{price_action.png}
@@ -612,6 +718,9 @@ The 0-100 ACSI score is estimated using the mean for each variable from the n re
 \par As we can see from the Figure ~\ref{fig:price_action}, there is a huge surge in stock prices when the merger news was announced. Shares of State Bank of India (BSE) -2.01 \% (SBI) and its three of its listed associates jumped up to 14 per cent. The merger will bring nearly a quarter of all outstanding loans in India?s banking sector to SBI?s books.
 
 SBI jumped over 3 per cent to hit a high of Rs 277 on BSE. State Bank of BikanerNSE 0.99 \% \& Jaipur (SBBJ) soared 10.86 per cent to hit a high of Rs 796. State Bank of Travancore 1.34 \% (SBT) surged 10.54 per cent to Rs 619. State Bank of MysoreNSE 1.17 \% spurted 13.54 per cent to Rs 637.70. SBI holded a 75 per cent stake in SBBJ, 90 per cent in State Bank of Mysore and 79 per cent in SBT before the associate banks were delisted. After that while the prices of 3 listed associate banks remained more or less constant, prices of SBI continues to rise. On march 17, 2017 the associate banks were delisted from both BSE and NSE. The board of SBI earlier approved the merger plan under which SBBJ shareholders will get 28 shares of SBI (Re1 each) for every 10 shares (Rs10 each) held. Similarly, SBM and SBT shareholders will get 22 shares of SBI for every 10 shares.
+
+\subsubsection{RECOMMENDATION TO BUY SHARES}
+\par Banking is a regulated sector and government policies have a tight control over it. So any banking shares should be bought with caution. Though the merger creates a good value for shareholders, it alone cannot be kept in mind for buying the share. Recent PNB scam affected all PSU banks and every PSU share is declining. \textbf{So SBI shares should be bought with caution.}
 
 \subsection{SUMMARY}
 
@@ -637,10 +746,146 @@ Though merger is beneficial to management in terms of financial perspective and 
 \subsection{FUTURE WORK}
 During response collection it was found that, many of the people preferred private banks over SBI/PSU banks. So a study can be conducted to know the areas in which private banks excel and it can be used to improve the service of PSU banks.
 
-%references
+% appendix
 
 \newpage
-\section{REFERENCES}
+\section{APPENDIX}
+\subsection{SURVEY QUESTIONNAIRE}
+\emph{Dear Sir / Madam, I am a second year MBA student from Anna University, Chennai. We are conducting this survey to know about customer satisfaction and loyalty after merger of associate banks of SBI with itself. There is no right or wrong answer. Please read the statements carefully and answer. All the data will be kept confidential. It will be used only for educational and research purposes only. None of the data will be disclosed.}\\
+\noindent\makebox[\linewidth]{\rule{\paperwidth}{0.4pt}}
+Age:\\
+Gender:\\
+Bank Name:\\
+Year of account opening:\\
+Location:\\
+Education:\\
+\noindent\makebox[\linewidth]{\rule{\paperwidth}{0.4pt}}
+
+\subsection*{SECTION 1 (PSYCHOLOGICAL CONTRACT VIOLATION)}
+\textbf{Please indicate to what extent you agree with the following statements.} \\
+1 = Not at all, 2 = Somewhat, 3 = Neutral, 4 = Some extent, 5 = Very great extent\\
+\emph {(Tick in the appropriate box)}\\
+\begin{minipage}{\textwidth}
+
+\begin{tabular}{|c|l|c|c|c|c|c|}
+\hline \multicolumn{2}{|c|}{} & 1 & 2 & 3 & 4 & 5\\
+\hline \rownumber & I feel happy about the merger & \tab & \tab & \tab & \tab & \tab \\
+\hline \rownumber & I feel pleased about the merger & \tab & \tab & \tab & \tab & \tab \\
+\hline \rownumber & I feel disappointed about the merger & \tab & \tab & \tab & \tab & \tab \\
+\hline \rownumber & I feel violated about the merger & \tab & \tab & \tab & \tab & \tab \\
+\hline \rownumber & I feel grateful about the merger & \tab & \tab & \tab & \tab & \tab \\
+\hline \rownumber & I have difficulty in obtaining information post merger. & \tab & \tab & \tab & \tab & \tab \\
+\hline \rownumber & I find difficult to commute. & \tab & \tab & \tab & \tab & \tab \\
+\hline \rownumber & I lost my personal care / identity after merger. & \tab & \tab & \tab & \tab & \tab \\
+\hline
+\end{tabular}
+
+\end{minipage}
+
+\newpage
+\subsection*{SECTION 2 (SERVICE PERFORMANCE)}
+\textbf{Please rate the following statements.}\\
+1 = Very High, 2 = High\\
+3 = Same,\\
+4 = Low, 5 = Very Low\\
+\emph {(Tick in the appropriate box)}\\
+\begin{minipage}{\textwidth}
+
+\begin{tabularx}{\linewidth}{|l|l|X|X|X|X|X|}
+\hline \multicolumn{2}{|c|}{} & 1 & 2 & 3 & 4 & 5\\
+\hline \rownumber & Time required to avail a service & \tab & \tab & \tab & \tab & \tab \\
+\hline \rownumber & Effort taken to receive a service & \tab & \tab & \tab & \tab & \tab \\
+\hline \rownumber & Employees provide consistent service & \tab & \tab & \tab & \tab & \tab \\
+\hline \rownumber & Employees are willing and provide service in a timely manner & \tab & \tab & \tab & \tab & \tab \\
+\hline \rownumber & Employees are approachable and easy to contact & \tab & \tab & \tab & \tab & \tab \\
+\hline \rownumber & Employees are courteous, polite and respectful & \tab & \tab & \tab & \tab & \tab \\
+\hline \rownumber & Employees listen and speak to me in  a language I understand & \tab & \tab & \tab & \tab & \tab \\
+\hline \rownumber & Employees are trustworthy, honest and believable. & \tab & \tab & \tab & \tab & \tab \\
+\hline \rownumber & Employees make effort to understand my needs.  & \tab & \tab & \tab & \tab & \tab \\
+\hline \rownumber & Physical facilities and employees are neat and clean. & \tab & \tab & \tab & \tab & \tab \\
+\hline \rownumber & The overall ability of bank to satisfy my needs and wants is. & \tab & \tab & \tab & \tab & \tab \\
+\hline
+\end{tabularx}
+\end{minipage}
+\begin{minipage}{\textwidth}
+\tab \\
+\textbf{Please rate the following statements.}\\
+1 = Pathetic, 2 = Poor\\
+3 = Same,\\
+4 = Good, 5 = Excellent\\
+\emph {(Tick in the appropriate box)}\\
+\begin{tabularx}{\linewidth}{|l|l|X|X|X|X|X|X|X|X|X|}
+\hline \multicolumn{2}{|c|}{} & 1 & 2 & 3 & 4 & 5\\
+\hline \rownumber & Overall service & \tab & \tab & \tab & \tab & \tab \\
+\hline
+\end{tabularx}
+\end{minipage}
+\newpage
+\subsection*{SECTION 3 (CUSTOMER SATISFACTION)}
+%\begin{minipage}{\textwidth}
+\emph {(Tick only one option)}\\
+\rownumber. \textbf{Overall satisfaction level}
+\begin{todolist}
+    \item Very dissatisfied.
+    \item Dissatisfied.
+    \item Neutral.
+    \item Satisfied.
+    \item Very satisfied.
+\end{todolist}
+
+\rownumber. \textbf{To what extent, service has met expectation ?}
+\begin{todolist}
+    \item Much worse.
+    \item Worse than expectation.
+    \item Neutral.
+    \item Equal to expectation.
+    \item Better than expectation.
+\end{todolist}
+
+\rownumber. \textbf{Compare the current service with before merger.}
+\begin{todolist}
+    \item Very far from ideal.
+    \item Far from ideal.
+    \item Neutral.
+    \item Close to ideal.
+    \item Very close to ideal.
+\end{todolist} .
+%\end{minipage}
+\subsection*{SECTION 4 - (LOYALTY)}
+\textbf{Please rate the following statements.}\\
+1 = Not at all likely, 2 = Not very likely \\
+3 = Quite likely, 4 = Very likely\\
+\emph {(Tick in the appropriate box)}\\
+\begin{minipage}{\textwidth}
+
+\begin{tabularx}{\linewidth}{|l|l|X|X|X|X|}
+\hline \multicolumn{2}{|c|}{} & 1 & 2 & 3 & 4\\
+\hline \rownumber & Would you recommend to a friend / relatives? & \tab & \tab & \tab & \tab \\
+\hline \rownumber & Will you avail service continuosly ?& \tab & \tab & \tab & \tab \\
+\hline \rownumber & Will you open account again ? & \tab & \tab & \tab & \tab \\
+\hline
+\end{tabularx}
+
+\end{minipage}
+\tab \\
+\textbf{Please rate the following statements.}\\
+1 = Strongly disagree, 2 = Disagree \\
+3 = Neutral
+4 = Agree, 5 - Strongly agree\\
+\emph {(Tick in the appropriate box)}\\
+\begin{minipage}{\textwidth}
+
+\begin{tabularx}{\linewidth}{|l|l|X|X|X|X|X|}
+\hline \multicolumn{2}{|c|}{} & 1 & 2 & 3 & 4 & 5\\
+\hline \rownumber & I had a problem or negative experience after merger? & \tab & \tab & \tab & \tab & \tab \\
+\hline \rownumber & Given an option to switch, I will switch to other banks. & \tab & \tab & \tab & \tab & \tab \\
+\hline
+\end{tabularx}
+
+\end{minipage}
+
+\newpage
+\subsection{REFERENCES}
 \begin{enumerate}
 %\item \href{http://www.thehindu.com/business/Industry/sbi-five-associate-banks-bmb-merge-with-sbi/article17757316.ece}{http://www.thehindu.com/business/Industry/sbi-five-associate-banks-bmb-merge-with-sbi/article17757316.ece}
 %\item \href{https://en.wikipedia.org/wiki/Public_sector_banks_in_India}{https://en.wikipedia.org/wiki/Public-sector-banks-in-India}

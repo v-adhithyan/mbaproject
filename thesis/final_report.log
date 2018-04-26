@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.2)  23 APR 2018 07:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.2)  26 APR 2018 00:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -570,24 +570,114 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 ) (/usr/local/texlive/2017basic/texmf-dist/tex/latex/chngcntr/chngcntr.sty
 Package: chngcntr 2009/09/02 v1.0a change counter resetting
 )
-(./final_report.aux)
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip44
+\enit@outerparindent=\dimen118
+\enit@toks=\toks20
+\enit@inbox=\box28
+\enitdp@description=\count102
+)
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks21
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
+\c@tracingmulticols=\count103
+\mult@box=\box29
+\multicol@leftmargin=\dimen119
+\c@unbalance=\count104
+\c@collectmore=\count105
+\doublecol@number=\count106
+\multicoltolerance=\count107
+\multicolpretolerance=\count108
+\full@width=\dimen120
+\page@free=\dimen121
+\premulticols=\dimen122
+\postmulticols=\dimen123
+\multicolsep=\skip45
+\multicolbaselineskip=\skip46
+\partial@page=\box30
+\last@line=\box31
+\maxbalancingoverflow=\dimen124
+\mult@rightbox=\box32
+\mult@grightbox=\box33
+\mult@gfirstbox=\box34
+\mult@firstbox=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\c@columnbadness=\count109
+\c@finalcolumnbadness=\count110
+\last@try=\dimen125
+\multicolovershoot=\dimen126
+\multicolundershoot=\dimen127
+\mult@nat@firstbox=\box53
+\colbreak@box=\box54
+\mc@col@check@num=\count111
+)
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2016/02/03 v2.11 `tabularx' package (DPC)
+
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/tools/array.sty
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+\col@sep=\dimen128
+\extrarowheight=\dimen129
+\NC@list=\toks22
+\extratabsurround=\skip47
+\backup@length=\skip48
+)
+\TX@col@width=\dimen130
+\TX@old@table=\dimen131
+\TX@old@col=\dimen132
+\TX@target=\dimen133
+\TX@delta=\dimen134
+\TX@cols=\count112
+\TX@ftn=\toks23
+)
+\c@magicrownumbers=\count113
+\enitdp@todolist=\count114
+
+(./final_report.aux (./qpv2.aux))
 \openout1 = `final_report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 17.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 25.
 
 (/usr/local/texlive/2017basic/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -628,17 +718,17 @@ File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 
 (/usr/local/texlive/2017basic/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count102
-\scratchdimen=\dimen118
-\scratchbox=\box28
-\nofMPsegments=\count103
-\nofMParguments=\count104
-\everyMPshowfont=\toks20
-\MPscratchCnt=\count105
-\MPscratchDim=\dimen119
-\MPnumerator=\count106
-\makeMPintoPDFobject=\count107
-\everyMPtoPDFconversion=\toks21
+\scratchcounter=\count115
+\scratchdimen=\dimen135
+\scratchbox=\box55
+\nofMPsegments=\count116
+\nofMParguments=\count117
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count118
+\MPscratchDim=\dimen136
+\MPnumerator=\count119
+\makeMPintoPDFobject=\count120
+\everyMPtoPDFconversion=\toks25
 ) (/usr/local/texlive/2017basic/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 (/usr/local/texlive/2017basic/texmf-dist/tex/latex/oberdiek/grfext.sty
@@ -655,8 +745,8 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-\AtBeginShipoutBox=\box29
-Package hyperref Info: Link coloring OFF on input line 17.
+\AtBeginShipoutBox=\box56
+Package hyperref Info: Link coloring OFF on input line 25.
  (/usr/local/texlive/2017basic/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
@@ -664,44 +754,44 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 y
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count108
+\c@section@level=\count121
 )
-LaTeX Info: Redefining \ref on input line 17.
-LaTeX Info: Redefining \pageref on input line 17.
-LaTeX Info: Redefining \nameref on input line 17.
+LaTeX Info: Redefining \ref on input line 25.
+LaTeX Info: Redefining \pageref on input line 25.
+LaTeX Info: Redefining \nameref on input line 25.
  (./final_report.out) (./final_report.out)
 \@outlinefile=\write3
 \openout3 = `final_report.out'.
 
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 20.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 28.
 
 (/usr/local/texlive/2017basic/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 22.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <18> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 22.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 24.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <14> not available
-(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 26.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <16> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 30.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <18> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 30.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 32.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <14> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 34.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <16> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 38.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 33.
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 41.
 
-<anna_univ_logo.jpg, id=209, 230.8625pt x 219.82124pt>
+<anna_univ_logo.jpg, id=233, 230.8625pt x 219.82124pt>
 File: anna_univ_logo.jpg Graphic file (type jpg)
 
 <use anna_univ_logo.jpg>
-Package pdftex.def Info: anna_univ_logo.jpg used on input line 38.
+Package pdftex.def Info: anna_univ_logo.jpg used on input line 46.
 (pdftex.def)             Requested size: 115.43095pt x 109.91034pt.
  [1
 
 {/usr/local/texlive/2017basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./
 anna_univ_logo.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 53--57
+Underfull \hbox (badness 10000) in paragraph at lines 61--65
 
  []
 
@@ -727,7 +817,16 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 2.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 2.
- [5])
+LaTeX Font Info:    Try loading font information for U+msa on input line 2.
+
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 2.
+
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [5])
 \tf@toc=\write4
 \openout4 = `final_report.toc'.
 
@@ -741,293 +840,300 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 \openout6 = `final_report.lot'.
 
  [7] [1] [2] [3] [4]
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 185.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 193.
 
 
 (/usr/local/texlive/2017basic/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 185.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 193.
  [5]
-[6] [7] [8] [9] <model.png, id=412, 917.4275pt x 334.24875pt>
+[6] [7] [8] [9] <model.png, id=451, 917.4275pt x 334.24875pt>
 File: model.png Graphic file (type png)
  <use model.png>
-Package pdftex.def Info: model.png used on input line 252.
+Package pdftex.def Info: model.png used on input line 260.
 (pdftex.def)             Requested size: 458.71263pt x 167.12396pt.
 
-[10] [11 <./model.png>] [12] [13] [14] <age.png, id=437, 650.43pt x 493.845pt>
+[10] [11 <./model.png>] [12] [13] [14] <age.png, id=475, 650.43pt x 493.845pt>
 File: age.png Graphic file (type png)
 
 <use age.png>
-Package pdftex.def Info: age.png used on input line 330.
+Package pdftex.def Info: age.png used on input line 338.
 (pdftex.def)             Requested size: 455.2979pt x 345.68913pt.
- [15] [16 <./age.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 424--425
+ [15] [16 <./age.png>] [17]
+Underfull \hbox (badness 10000) in paragraph at lines 441--443
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
+Underfull \hbox (badness 10000) in paragraph at lines 444--446
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 428--429
+Underfull \hbox (badness 10000) in paragraph at lines 447--449
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 430--431
+Underfull \hbox (badness 10000) in paragraph at lines 450--452
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 432--433
+Underfull \hbox (badness 10000) in paragraph at lines 453--455
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 434--435
-
- []
-
-[17]
-Underfull \hbox (badness 10000) in paragraph at lines 436--437
+Underfull \hbox (badness 10000) in paragraph at lines 459--479
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--439
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 440--441
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 442--443
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 444--445
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 446--447
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 448--449
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 450--451
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 452--453
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 454--455
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 456--457
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 458--459
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 460--461
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 462--463
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 464--465
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 466--467
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 468--469
+Underfull \hbox (badness 10000) in paragraph at lines 480--481
 
  []
 
 [18]
-Underfull \hbox (badness 10000) in paragraph at lines 470--471
+Underfull \hbox (badness 10000) in paragraph at lines 482--484
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 472--473
+Underfull \hbox (badness 10000) in paragraph at lines 485--487
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 474--475
+Underfull \hbox (badness 10000) in paragraph at lines 488--490
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 476--477
+Underfull \hbox (badness 10000) in paragraph at lines 491--493
 
  []
 
-[19] <pcv_vs_customer_satisfaction.png, id=461, 367.3725pt x 109.1578pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 494--496
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 497--499
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 500--502
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--505
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 506--508
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 509--511
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 512--514
+
+ []
+
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 515--517
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--520
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 521--523
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 524--526
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 527--529
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 533--535
+
+ []
+
+[20] <pcv_vs_customer_satisfaction.png, id=504, 367.3725pt x 109.1578pt>
 File: pcv_vs_customer_satisfaction.png Graphic file (type png)
 
 <use pcv_vs_customer_satisfaction.png>
-Package pdftex.def Info: pcv_vs_customer_satisfaction.png used on input line 50
-4.
+Package pdftex.def Info: pcv_vs_customer_satisfaction.png used on input line 56
+5.
 (pdftex.def)             Requested size: 367.37158pt x 109.15753pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 501--506
+Underfull \hbox (badness 10000) in paragraph at lines 562--567
 
  []
 
-<anova_pcv_cs.png, id=462, 406.51875pt x 149.8097pt>
+<anova_pcv_cs.png, id=505, 406.51875pt x 149.8097pt>
 File: anova_pcv_cs.png Graphic file (type png)
  <use anova_pcv_cs.png>
-Package pdftex.def Info: anova_pcv_cs.png used on input line 510.
+Package pdftex.def Info: anova_pcv_cs.png used on input line 571.
 (pdftex.def)             Requested size: 406.51775pt x 149.80931pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 514--516
+Underfull \hbox (badness 10000) in paragraph at lines 575--577
 
  []
 
-<service_performance_vs_service.png, id=463, 362.85562pt x 104.64093pt>
+<service_performance_vs_service.png, id=506, 362.85562pt x 104.64093pt>
 File: service_performance_vs_service.png Graphic file (type png)
 
 <use service_performance_vs_service.png>
 Package pdftex.def Info: service_performance_vs_service.png used on input line 
-520.
+581.
 (pdftex.def)             Requested size: 362.85474pt x 104.64066pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 517--522
+Underfull \hbox (badness 10000) in paragraph at lines 578--583
 
  []
 
-<anova_s_sp.png, id=464, 426.09187pt x 148.30406pt>
+<anova_s_sp.png, id=507, 426.09187pt x 148.30406pt>
 File: anova_s_sp.png Graphic file (type png)
  <use anova_s_sp.png>
-Package pdftex.def Info: anova_s_sp.png used on input line 528.
+Package pdftex.def Info: anova_s_sp.png used on input line 589.
 (pdftex.def)             Requested size: 426.09082pt x 148.30368pt.
 
-[20 <./pcv_vs_customer_satisfaction.png> <./anova_pcv_cs.png> <./service_perfor
-mance_vs_service.png>] <sp_vs_cs.png, id=472, 359.09157pt x 103.13531pt>
+[21 <./pcv_vs_customer_satisfaction.png> <./anova_pcv_cs.png> <./service_perfor
+mance_vs_service.png>] <sp_vs_cs.png, id=515, 359.09157pt x 103.13531pt>
 File: sp_vs_cs.png Graphic file (type png)
 
 <use sp_vs_cs.png>
-Package pdftex.def Info: sp_vs_cs.png used on input line 535.
+Package pdftex.def Info: sp_vs_cs.png used on input line 596.
 (pdftex.def)             Requested size: 359.09068pt x 103.13504pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 532--537
+Underfull \hbox (badness 10000) in paragraph at lines 593--598
 
  []
 
-<anova_css.png, id=473, 420.82219pt x 164.11313pt>
+<anova_css.png, id=516, 420.82219pt x 164.11313pt>
 File: anova_css.png Graphic file (type png)
  <use anova_css.png>
-Package pdftex.def Info: anova_css.png used on input line 544.
+Package pdftex.def Info: anova_css.png used on input line 605.
 (pdftex.def)             Requested size: 420.82115pt x 164.11272pt.
- [21 <./anova_s_sp.png> <./sp_vs_cs.png> <./anova_css.png>]
-<customer_satisfaction_vs_loyalty.png, id=480, 366.61969pt x 106.14656pt>
+ [22 <./anova_s_sp.png> <./sp_vs_cs.png> <./anova_css.png>]
+<customer_satisfaction_vs_loyalty.png, id=523, 366.61969pt x 106.14656pt>
 File: customer_satisfaction_vs_loyalty.png Graphic file (type png)
 
 <use customer_satisfaction_vs_loyalty.png>
 Package pdftex.def Info: customer_satisfaction_vs_loyalty.png used on input lin
-e 552.
+e 613.
 (pdftex.def)             Requested size: 366.61879pt x 106.1463pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 549--554
+Underfull \hbox (badness 10000) in paragraph at lines 610--615
 
  []
 
-<anova_cs_lo.png, id=481, 426.09187pt x 151.3153pt>
+<anova_cs_lo.png, id=524, 426.09187pt x 151.3153pt>
 File: anova_cs_lo.png Graphic file (type png)
  <use anova_cs_lo.png>
-Package pdftex.def Info: anova_cs_lo.png used on input line 557.
+Package pdftex.def Info: anova_cs_lo.png used on input line 618.
 (pdftex.def)             Requested size: 426.09082pt x 151.31493pt.
 
-[22 <./customer_satisfaction_vs_loyalty.png> <./anova_cs_lo.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 584--585
+[23 <./customer_satisfaction_vs_loyalty.png> <./anova_cs_lo.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 645--646
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 586--587
+Underfull \hbox (badness 10000) in paragraph at lines 647--648
 
  []
 
-<ratings_distribution.png, id=488, 301.125pt x 351.3125pt>
+<ratings_distribution.png, id=531, 301.125pt x 351.3125pt>
 File: ratings_distribution.png Graphic file (type png)
 
 <use ratings_distribution.png>
-Package pdftex.def Info: ratings_distribution.png used on input line 594.
+Package pdftex.def Info: ratings_distribution.png used on input line 676.
 (pdftex.def)             Requested size: 301.12425pt x 351.31163pt.
- [23]
-<freq_words.png, id=494, 540.0175pt x 400.49625pt>
+ [24]
+<rat_res.png, id=538, 1040.688pt x 289.08pt>
+File: rat_res.png Graphic file (type png)
+ <use rat_res.png>
+Package pdftex.def Info: rat_res.png used on input line 683.
+(pdftex.def)             Requested size: 520.34273pt x 144.53964pt.
+
+Overfull \hbox (36.64586pt too wide) in paragraph at lines 683--684
+ [][] 
+ []
+
+<freq_words.png, id=540, 540.0175pt x 400.49625pt>
 File: freq_words.png Graphic file (type png)
  <use freq_words.png>
-Package pdftex.def Info: freq_words.png used on input line 600.
+Package pdftex.def Info: freq_words.png used on input line 692.
 (pdftex.def)             Requested size: 270.00809pt x 200.24763pt.
 
-<price_action.png, id=495, 540.0175pt x 400.49625pt>
+[25 <./ratings_distribution.png> <./rat_res.png>]
+<wordcloud_reviews.png, id=548, 301.125pt x 351.3125pt>
+File: wordcloud_reviews.png Graphic file (type png)
+
+<use wordcloud_reviews.png>
+Package pdftex.def Info: wordcloud_reviews.png used on input line 703.
+(pdftex.def)             Requested size: 301.12425pt x 351.31163pt.
+ [26 <./freq_words.png> <./wordcloud_reviews.png>]
+<price_action.png, id=556, 540.0175pt x 400.49625pt>
 File: price_action.png Graphic file (type png)
  <use price_action.png>
-Package pdftex.def Info: price_action.png used on input line 607.
+Package pdftex.def Info: price_action.png used on input line 713.
 (pdftex.def)             Requested size: 432.01459pt x 320.39743pt.
 
-[24 <./ratings_distribution.png> <./freq_words.png>] [25 <./price_action.png>]
-[26]
-Overfull \hbox (0.96732pt too wide) in paragraph at lines 638--639
+[27 <./price_action.png>] [28]
+Overfull \hbox (0.96732pt too wide) in paragraph at lines 747--748
 \OT1/ptm/m/n/12 During re-sponse col-lec-tion it was found that, many of the pe
 o-ple pre-ferred pri-vate banks over SBI/PSU
  []
 
-[27] [28] [29]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 672.
- [30]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 672.
+[29] [30]
+Overfull \hbox (10.14856pt too wide) in paragraph at lines 770--782
+[][] 
+ []
+
+[31] [32] [33] [34] [35]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 917.
+ [36]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 917.
  (./final_report.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 672.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 672.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 917.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 917.
 Package rerunfilecheck Info: File `final_report.out' has not changed.
-(rerunfilecheck)             Checksum: AA0156995A4802881BEC2BD161719BAF;3457.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 672.
+(rerunfilecheck)             Checksum: 4CDBE61D5213D47F26F4574970533A7F;3911.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 917.
  ) 
 Here is how much of TeX's memory you used:
- 6409 strings out of 494437
- 96550 string characters out of 6166646
- 184582 words of memory out of 5000000
- 9470 multiletter control sequences out of 15000+600000
- 45092 words of font info for 50 fonts, out of 8000000 for 9000
+ 7242 strings out of 494437
+ 108332 string characters out of 6166646
+ 204413 words of memory out of 5000000
+ 10248 multiletter control sequences out of 15000+600000
+ 46327 words of font info for 56 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 28i,9n,28p,1904b,459s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28i,11n,28p,1904b,504s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017basic/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/u
 sr/local/texlive/2017basic/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/lo
 cal/texlive/2017basic/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/texliv
@@ -1037,14 +1143,15 @@ ic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/201
 c/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2017basic/tex
 mf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2017basic/texmf-dis
 t/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2017basic/texmf-dist/fon
-ts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/ty
-pe1/urw/times/utmbi8a.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/
-urw/times/utmr8a.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/urw/t
-imes/utmri8a.pfb>
-Output written on final_report.pdf (37 pages, 413938 bytes).
+ts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2017basic/texmf
+-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2017basic/texmf-dist
+/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2017basic/texmf-dist/fon
+ts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/ty
+pe1/urw/times/utmri8a.pfb>
+Output written on final_report.pdf (43 pages, 787497 bytes).
 PDF statistics:
- 624 PDF objects out of 1000 (max. 8388607)
- 544 compressed objects within 6 object streams
- 166 named destinations out of 1000 (max. 500000)
- 479 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 707 PDF objects out of 1000 (max. 8388607)
+ 615 compressed objects within 7 object streams
+ 186 named destinations out of 1000 (max. 500000)
+ 537 words of extra memory for PDF output out of 10000 (max. 10000000)
 

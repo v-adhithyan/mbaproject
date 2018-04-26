@@ -1,4 +1,4 @@
-\documentclass[10pt,a4paper]{article}
+\documentclass[12pt,a4paper]{extarticle}
 \usepackage{geometry}
 \usepackage{enumitem,amssymb}
 \usepackage{multicol}
@@ -12,7 +12,7 @@
 \geometry{left=20mm,right=20mm,top=20mm,bottom=20mm}
 \linespread{1.2}
 \begin{document}
-
+{\fontfamily{ptm}\selectfont
 \begin{center}
 %{\LARGE{\textbf{POST MERGER ANALYSIS OF CUSTOMER SATISFACTION AND LOYALTY - A STUDY ON RECENT MERGER OF ASSOCIATES OF A POPULAR BANK WITH ITSELF}}}\\
 \textbf{SURVEY QUESTIONNAIRE}
@@ -26,8 +26,8 @@ Year of account opening:\\
 Location:\\
 Education:\\
 \noindent\makebox[\linewidth]{\rule{\paperwidth}{0.4pt}}
-{\fontfamily{pbk}\selectfont
-\section*{SECTION 1}
+
+\subsection*{SECTION 1 (PSYCHOLOGICAL CONTRACT VIOLATION)}
 \textbf{Please indicate to what extent you agree with the following statements.} \\
 1 = Not at all, 2 = Somewhat, 3 = Neutral, 4 = Some extent, 5 = Very great extent\\
 \emph {(Tick in the appropriate box)}\\
@@ -40,7 +40,6 @@ Education:\\
 \hline \rownumber & I feel disappointed about the merger & \tab & \tab & \tab & \tab & \tab \\
 \hline \rownumber & I feel violated about the merger & \tab & \tab & \tab & \tab & \tab \\
 \hline \rownumber & I feel grateful about the merger & \tab & \tab & \tab & \tab & \tab \\
-\hline \rownumber & To what extent does the bank provide X  & \tab & \tab & \tab & \tab & \tab \\
 \hline \rownumber & I have difficulty in obtaining information post merger. & \tab & \tab & \tab & \tab & \tab \\
 \hline \rownumber & I find difficult to commute. & \tab & \tab & \tab & \tab & \tab \\
 \hline \rownumber & I lost my personal care / identity after merger. & \tab & \tab & \tab & \tab & \tab \\
@@ -50,7 +49,7 @@ Education:\\
 \end{minipage}
 
 \newpage
-\section*{SECTION 2 - AFTER MERGER SERVICE PERFORMANCE}
+\subsection*{SECTION 2 (SERVICE PERFORMANCE)}
 \textbf{Please rate the following statements.}\\
 1 = Very High, 2 = High\\
 3 = Same,\\
@@ -87,7 +86,7 @@ Education:\\
 \hline
 \end{tabularx}
 \end{minipage}
-\section*{SECTION 3}
+\subsection*{SECTION 3 (CUSTOMER SATISFACTION)}
 %\begin{minipage}{\textwidth}
 \emph {(Tick only one option)}\\
 \rownumber. \textbf{Overall satisfaction level}
@@ -98,6 +97,7 @@ Education:\\
     \item Satisfied.
     \item Very satisfied.
 \end{todolist}
+\newpage
 \rownumber. \textbf{To what extent, service has met expectation ?}
 \begin{todolist}
     \item Much worse.
@@ -106,7 +106,7 @@ Education:\\
     \item Equal to expectation.
     \item Better than expectation.
 \end{todolist}
-\newpage
+
 \rownumber. \textbf{Compare the current service with before merger.}
 \begin{todolist}
     \item Very far from ideal.
@@ -116,7 +116,7 @@ Education:\\
     \item Very close to ideal.
 \end{todolist} .
 %\end{minipage}
-\section*{SECTION 4}
+\subsection*{SECTION 4 - (LOYALTY)}
 \textbf{Please rate the following statements.}\\
 1 = Not at all likely, 2 = Not very likely \\
 3 = Quite likely, 4 = Very likely\\
