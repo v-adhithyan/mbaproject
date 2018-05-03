@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.2)  26 APR 2018 00:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.2)  2 MAY 2018 21:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -660,7 +660,7 @@ Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
 \c@magicrownumbers=\count113
 \enitdp@todolist=\count114
 
-(./final_report.aux (./qpv2.aux))
+(./final_report.aux)
 \openout1 = `final_report.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
@@ -781,7 +781,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <16> not available
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/it' tried instead on input line 41.
 
-<anna_univ_logo.jpg, id=233, 230.8625pt x 219.82124pt>
+<anna_univ_logo.jpg, id=249, 230.8625pt x 219.82124pt>
 File: anna_univ_logo.jpg Graphic file (type jpg)
 
 <use anna_univ_logo.jpg>
@@ -839,7 +839,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \tf@lot=\write6
 \openout6 = `final_report.lot'.
 
- [7] [1] [2] [3] [4]
+ [7] [1] [2] [3]
 LaTeX Font Info:    Try loading font information for OMS+ptm on input line 193.
 
 
@@ -848,292 +848,293 @@ File: omsptm.fd
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 193.
- [5]
-[6] [7] [8] [9] <model.png, id=451, 917.4275pt x 334.24875pt>
+ [4]
+[5] [6] [7] [8] [9] <model.png, id=452, 917.4275pt x 334.24875pt>
 File: model.png Graphic file (type png)
- <use model.png>
-Package pdftex.def Info: model.png used on input line 260.
+
+<use model.png>
+Package pdftex.def Info: model.png used on input line 278.
 (pdftex.def)             Requested size: 458.71263pt x 167.12396pt.
-
-[10] [11 <./model.png>] [12] [13] [14] <age.png, id=475, 650.43pt x 493.845pt>
+ [10] [11 <./model.png>] [12] [13] [14]
+<age.png, id=478, 650.43pt x 493.845pt>
 File: age.png Graphic file (type png)
-
-<use age.png>
-Package pdftex.def Info: age.png used on input line 338.
+ <use age.png>
+Package pdftex.def Info: age.png used on input line 348.
 (pdftex.def)             Requested size: 455.2979pt x 345.68913pt.
- [15] [16 <./age.png>] [17]
-Underfull \hbox (badness 10000) in paragraph at lines 441--443
+ [15] [16 <./age.png>]
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 451--453
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 444--446
+Underfull \hbox (badness 10000) in paragraph at lines 454--456
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 447--449
+Underfull \hbox (badness 10000) in paragraph at lines 457--459
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 450--452
+Underfull \hbox (badness 10000) in paragraph at lines 460--462
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 453--455
+Underfull \hbox (badness 10000) in paragraph at lines 463--465
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 459--479
+Underfull \hbox (badness 10000) in paragraph at lines 469--489
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 480--481
+Underfull \hbox (badness 10000) in paragraph at lines 490--491
 
  []
 
 [18]
-Underfull \hbox (badness 10000) in paragraph at lines 482--484
+Underfull \hbox (badness 10000) in paragraph at lines 492--494
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 485--487
+Underfull \hbox (badness 10000) in paragraph at lines 495--497
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 488--490
+Underfull \hbox (badness 10000) in paragraph at lines 498--500
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 491--493
+Underfull \hbox (badness 10000) in paragraph at lines 501--503
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 494--496
+Underfull \hbox (badness 10000) in paragraph at lines 504--506
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 497--499
+Underfull \hbox (badness 10000) in paragraph at lines 507--509
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 500--502
+Underfull \hbox (badness 10000) in paragraph at lines 510--512
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 503--505
+Underfull \hbox (badness 10000) in paragraph at lines 513--515
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 506--508
+Underfull \hbox (badness 10000) in paragraph at lines 516--518
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 509--511
+Underfull \hbox (badness 10000) in paragraph at lines 519--521
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 512--514
+Underfull \hbox (badness 10000) in paragraph at lines 522--524
 
  []
 
 [19]
-Underfull \hbox (badness 10000) in paragraph at lines 515--517
+Underfull \hbox (badness 10000) in paragraph at lines 525--527
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 518--520
+Underfull \hbox (badness 10000) in paragraph at lines 528--530
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 521--523
+Underfull \hbox (badness 10000) in paragraph at lines 531--533
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 524--526
+Underfull \hbox (badness 10000) in paragraph at lines 534--536
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 527--529
+Underfull \hbox (badness 10000) in paragraph at lines 537--539
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 533--535
+Underfull \hbox (badness 10000) in paragraph at lines 543--545
 
  []
 
-[20] <pcv_vs_customer_satisfaction.png, id=504, 367.3725pt x 109.1578pt>
+[20] <pcv_vs_customer_satisfaction.png, id=507, 367.3725pt x 109.1578pt>
 File: pcv_vs_customer_satisfaction.png Graphic file (type png)
 
 <use pcv_vs_customer_satisfaction.png>
-Package pdftex.def Info: pcv_vs_customer_satisfaction.png used on input line 56
+Package pdftex.def Info: pcv_vs_customer_satisfaction.png used on input line 57
 5.
 (pdftex.def)             Requested size: 367.37158pt x 109.15753pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 562--567
+Underfull \hbox (badness 10000) in paragraph at lines 572--577
 
  []
 
-<anova_pcv_cs.png, id=505, 406.51875pt x 149.8097pt>
+<anova_pcv_cs.png, id=508, 406.51875pt x 149.8097pt>
 File: anova_pcv_cs.png Graphic file (type png)
  <use anova_pcv_cs.png>
-Package pdftex.def Info: anova_pcv_cs.png used on input line 571.
+Package pdftex.def Info: anova_pcv_cs.png used on input line 581.
 (pdftex.def)             Requested size: 406.51775pt x 149.80931pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 575--577
+Underfull \hbox (badness 10000) in paragraph at lines 585--587
 
  []
 
-<service_performance_vs_service.png, id=506, 362.85562pt x 104.64093pt>
+<service_performance_vs_service.png, id=509, 362.85562pt x 104.64093pt>
 File: service_performance_vs_service.png Graphic file (type png)
 
 <use service_performance_vs_service.png>
 Package pdftex.def Info: service_performance_vs_service.png used on input line 
-581.
+591.
 (pdftex.def)             Requested size: 362.85474pt x 104.64066pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 578--583
+Underfull \hbox (badness 10000) in paragraph at lines 588--593
 
  []
 
-<anova_s_sp.png, id=507, 426.09187pt x 148.30406pt>
+<anova_s_sp.png, id=510, 426.09187pt x 148.30406pt>
 File: anova_s_sp.png Graphic file (type png)
  <use anova_s_sp.png>
-Package pdftex.def Info: anova_s_sp.png used on input line 589.
+Package pdftex.def Info: anova_s_sp.png used on input line 599.
 (pdftex.def)             Requested size: 426.09082pt x 148.30368pt.
 
 [21 <./pcv_vs_customer_satisfaction.png> <./anova_pcv_cs.png> <./service_perfor
-mance_vs_service.png>] <sp_vs_cs.png, id=515, 359.09157pt x 103.13531pt>
+mance_vs_service.png>] <sp_vs_cs.png, id=518, 359.09157pt x 103.13531pt>
 File: sp_vs_cs.png Graphic file (type png)
 
 <use sp_vs_cs.png>
-Package pdftex.def Info: sp_vs_cs.png used on input line 596.
+Package pdftex.def Info: sp_vs_cs.png used on input line 606.
 (pdftex.def)             Requested size: 359.09068pt x 103.13504pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 593--598
+Underfull \hbox (badness 10000) in paragraph at lines 603--608
 
  []
 
-<anova_css.png, id=516, 420.82219pt x 164.11313pt>
+<anova_css.png, id=519, 420.82219pt x 164.11313pt>
 File: anova_css.png Graphic file (type png)
  <use anova_css.png>
-Package pdftex.def Info: anova_css.png used on input line 605.
+Package pdftex.def Info: anova_css.png used on input line 615.
 (pdftex.def)             Requested size: 420.82115pt x 164.11272pt.
  [22 <./anova_s_sp.png> <./sp_vs_cs.png> <./anova_css.png>]
-<customer_satisfaction_vs_loyalty.png, id=523, 366.61969pt x 106.14656pt>
+<customer_satisfaction_vs_loyalty.png, id=526, 366.61969pt x 106.14656pt>
 File: customer_satisfaction_vs_loyalty.png Graphic file (type png)
 
 <use customer_satisfaction_vs_loyalty.png>
 Package pdftex.def Info: customer_satisfaction_vs_loyalty.png used on input lin
-e 613.
+e 623.
 (pdftex.def)             Requested size: 366.61879pt x 106.1463pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 610--615
+Underfull \hbox (badness 10000) in paragraph at lines 620--625
 
  []
 
-<anova_cs_lo.png, id=524, 426.09187pt x 151.3153pt>
+<anova_cs_lo.png, id=527, 426.09187pt x 151.3153pt>
 File: anova_cs_lo.png Graphic file (type png)
  <use anova_cs_lo.png>
-Package pdftex.def Info: anova_cs_lo.png used on input line 618.
+Package pdftex.def Info: anova_cs_lo.png used on input line 628.
 (pdftex.def)             Requested size: 426.09082pt x 151.31493pt.
 
 [23 <./customer_satisfaction_vs_loyalty.png> <./anova_cs_lo.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 645--646
+Underfull \hbox (badness 10000) in paragraph at lines 655--656
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 647--648
+Underfull \hbox (badness 10000) in paragraph at lines 657--658
 
  []
 
-<ratings_distribution.png, id=531, 301.125pt x 351.3125pt>
+<ratings_distribution.png, id=534, 301.125pt x 351.3125pt>
 File: ratings_distribution.png Graphic file (type png)
 
 <use ratings_distribution.png>
-Package pdftex.def Info: ratings_distribution.png used on input line 676.
+Package pdftex.def Info: ratings_distribution.png used on input line 686.
 (pdftex.def)             Requested size: 301.12425pt x 351.31163pt.
  [24]
-<rat_res.png, id=538, 1040.688pt x 289.08pt>
+<rat_res.png, id=541, 1040.688pt x 289.08pt>
 File: rat_res.png Graphic file (type png)
  <use rat_res.png>
-Package pdftex.def Info: rat_res.png used on input line 683.
+Package pdftex.def Info: rat_res.png used on input line 693.
 (pdftex.def)             Requested size: 520.34273pt x 144.53964pt.
 
-Overfull \hbox (36.64586pt too wide) in paragraph at lines 683--684
+Overfull \hbox (36.64586pt too wide) in paragraph at lines 693--694
  [][] 
  []
 
-<freq_words.png, id=540, 540.0175pt x 400.49625pt>
+<freq_words.png, id=543, 540.0175pt x 400.49625pt>
 File: freq_words.png Graphic file (type png)
  <use freq_words.png>
-Package pdftex.def Info: freq_words.png used on input line 692.
+Package pdftex.def Info: freq_words.png used on input line 702.
 (pdftex.def)             Requested size: 270.00809pt x 200.24763pt.
 
 [25 <./ratings_distribution.png> <./rat_res.png>]
-<wordcloud_reviews.png, id=548, 301.125pt x 351.3125pt>
+<wordcloud_reviews.png, id=551, 301.125pt x 351.3125pt>
 File: wordcloud_reviews.png Graphic file (type png)
 
 <use wordcloud_reviews.png>
-Package pdftex.def Info: wordcloud_reviews.png used on input line 703.
+Package pdftex.def Info: wordcloud_reviews.png used on input line 713.
 (pdftex.def)             Requested size: 301.12425pt x 351.31163pt.
  [26 <./freq_words.png> <./wordcloud_reviews.png>]
-<price_action.png, id=556, 540.0175pt x 400.49625pt>
+<price_action.png, id=559, 540.0175pt x 400.49625pt>
 File: price_action.png Graphic file (type png)
  <use price_action.png>
-Package pdftex.def Info: price_action.png used on input line 713.
+Package pdftex.def Info: price_action.png used on input line 736.
 (pdftex.def)             Requested size: 432.01459pt x 320.39743pt.
 
-[27 <./price_action.png>] [28]
-Overfull \hbox (0.96732pt too wide) in paragraph at lines 747--748
+[27 <./price_action.png>] [28] [29]
+Overfull \hbox (0.96732pt too wide) in paragraph at lines 781--782
 \OT1/ptm/m/n/12 During re-sponse col-lec-tion it was found that, many of the pe
 o-ple pre-ferred pri-vate banks over SBI/PSU
  []
 
-[29] [30]
-Overfull \hbox (10.14856pt too wide) in paragraph at lines 770--782
+[30]
+Overfull \hbox (10.14856pt too wide) in paragraph at lines 804--816
 [][] 
  []
 
 [31] [32] [33] [34] [35]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 917.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 951.
  [36]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 917.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 951.
  (./final_report.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 917.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 917.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 951.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 951.
 Package rerunfilecheck Info: File `final_report.out' has not changed.
-(rerunfilecheck)             Checksum: 4CDBE61D5213D47F26F4574970533A7F;3911.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 917.
+(rerunfilecheck)             Checksum: FDE0FBBB2305696E9EEB612BA64D86C2;4215.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 951.
  ) 
 Here is how much of TeX's memory you used:
- 7242 strings out of 494437
- 108332 string characters out of 6166646
- 204413 words of memory out of 5000000
- 10248 multiletter control sequences out of 15000+600000
+ 7230 strings out of 494437
+ 108381 string characters out of 6166646
+ 204106 words of memory out of 5000000
+ 10252 multiletter control sequences out of 15000+600000
  46327 words of font info for 56 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 28i,11n,28p,1904b,504s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28i,11n,28p,1900b,504s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017basic/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/u
 sr/local/texlive/2017basic/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/lo
 cal/texlive/2017basic/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/texliv
@@ -1148,10 +1149,10 @@ ts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2017basic/texmf
 /fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2017basic/texmf-dist/fon
 ts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/ty
 pe1/urw/times/utmri8a.pfb>
-Output written on final_report.pdf (43 pages, 787497 bytes).
+Output written on final_report.pdf (43 pages, 789516 bytes).
 PDF statistics:
- 707 PDF objects out of 1000 (max. 8388607)
- 615 compressed objects within 7 object streams
- 186 named destinations out of 1000 (max. 500000)
- 537 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 708 PDF objects out of 1000 (max. 8388607)
+ 616 compressed objects within 7 object streams
+ 173 named destinations out of 1000 (max. 500000)
+ 569 words of extra memory for PDF output out of 10000 (max. 10000000)
 
