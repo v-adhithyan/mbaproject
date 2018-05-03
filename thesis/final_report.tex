@@ -11,7 +11,7 @@
 \usepackage{multicol}
 \usepackage{float}
 \usepackage{tabularx}
-%\usepackage{titlesec}
+\usepackage{titlesec}
 \newcounter{magicrownumbers}
 \newcommand\rownumber{\stepcounter{magicrownumbers}\arabic{magicrownumbers}}
 %\newcommand \tab[1][1cm]{\hspace*{#1}}
@@ -22,6 +22,7 @@
 \linespread{1.5}
 \newcommand\tab[1][1cm]{\hspace*{#1}}
 \geometry{left=20mm,right=20mm,top=20mm,bottom=20mm}
+\titleformat{\section}[block]{\large\bfseries\center}{}{1em}{}
 \begin{document}
 {
 \pagenumbering{roman}
@@ -96,7 +97,10 @@ Certified that this project report \textbf{"POST MERGER ANALYSIS OF CUSTOMER SAT
 \newpage
 \pagenumbering{arabic}
 %introduction
-\section{Introduction}
+\begin{center}
+\textbf{\large CHAPTER 1}
+\end{center}
+\section{INTRODUCTION}
 \par Public Sector Banks (PSBs) are banks where a majority stake (i.e. more than 50 \%) is held by a government. The shares of these banks are listed on stock exchanges. There are a total of 21 PSBs in India.
 
 %\subsection{LIST OF PUBLIC SECTOR BANKS IN INDIA}
@@ -238,6 +242,9 @@ The associate banks of State Bank of India (SBI) that merged with it recently ar
 \end{itemize}
 
 \newpage
+\begin{center}
+\textbf{\large CHAPTER 2}
+\end{center}
 \section{LITERATURE REVIEW}
 \subsection{MERGERS \& ACQUISITIONS IN BANKS}
 \begin{itemize}
@@ -280,7 +287,9 @@ This study has not been conducted before. This is the first such attempt to asse
 \end{figure}
 
 \newpage
-
+\begin{center}
+\textbf{\large CHAPTER 3}
+\end{center}
 \section{METHODOLOGY}
 \subsection{RESEARCH DESIGN}
 The research problem has already been identified and described in chapter 1. Based on this, research design and methodology have been defined and data collection has been carried out.
@@ -315,6 +324,9 @@ The hypotheses are formulated and research design has been explained and data ha
 
 %data analysis
 \newpage
+\begin{center}
+\textbf{\large CHAPTER 4}
+\end{center}
 \section{DATA ANALYSIS}
 \subsection{INTRODUCTION}
 This chapter presents the results of descriptive statistics, tests of reliability, comparison of means, regression. Firstly, it presents the results of preliminary analyses such as reliability of the measures, descriptive statistics, background and demographic differences in the study variables. Finally, it depicts the summary of results.
@@ -557,13 +569,13 @@ All the proposed hypotheses are tested using regression analysis and the results
 \hline
 Hypothesis no & Std coefficient $\beta$  & R squared & Adjusted R square & F & Results \\
 \hline
-\textbf{H1} & -0.662 & 0.407 & 0.401 & 67.807 & \textbf{Accepted} \\
+\textbf{H1} & -0.638 & 0.407 & 0.401 & 67.807 & \textbf{Accepted} \\
 \hline
-\textbf{H2} & -0.830 & 0.744 & 0.554 & 123.009 & \textbf{Rejected} \\
+\textbf{H2} & -0.744 & 0.744 & 0.554 & 123.009 & \textbf{Rejected} \\
 \hline
-\textbf{H3} & 0.907 & 0.9 & 0.899 & 893.550 & \textbf{Accepted} \\
+\textbf{H3} & 0.949 & 0.9 & 0.899 & 893.550 & \textbf{Accepted} \\
 \hline
-\textbf{H4} & 0.602 & 0.157 & 0.148 & 18.370 & \textbf{Accepted} \\
+\textbf{H4} & 0.396 & 0.157 & 0.148 & 18.370 & \textbf{Accepted} \\
 \hline 
 \end{tabular}
 \caption{Regression results}
@@ -582,9 +594,15 @@ Hypothesis no & Std coefficient $\beta$  & R squared & Adjusted R square & F & R
 \caption{Anova - H1}
 \end{figure}
 
+\begin{figure}[H]
+\centering
+\includegraphics[scale=1]{h1.png}
+\caption{Coefficients - H1}
+\end{figure}
+
 PCV and customer satisfaction are negatively correlated. (-0.662). This indicates as customer perceives more PCV, his satisfaction gets affected. SO H1 is accepted.
 PCV influences 41\% of variance in customer satisfaction.\\
-
+\newpage
 \par \textbf{H2 - Service performance is a determinant of overall service.}\\
 \begin{figure}[H]
 \centering
@@ -592,7 +610,6 @@ PCV influences 41\% of variance in customer satisfaction.\\
 \caption{Regression results - H2}
 \end{figure}
 
-Service performance explains 55.4\% of variance in overall service.Service performance is negatively correlated with overall service. This indicates overall service doesn't depend on service performance. H2 is rejected.
 
 \begin{figure}[H]
 \centering
@@ -600,6 +617,14 @@ Service performance explains 55.4\% of variance in overall service.Service perfo
 \caption{Anova - H2}
 \end{figure}
 
+\begin{figure}[H]
+\centering
+\includegraphics[scale=1]{h2.png}
+\caption{Coefficients - H2}
+\end{figure}
+
+Service performance explains 55.4\% of variance in overall service.Service performance is negatively correlated with overall service. This indicates overall service doesn't depend on service performance. H2 is rejected.
+\newpage
 \par \textbf{H3 - Overall service has a positive impact on customer satisfaction}\\
 \begin{figure}[H]
 \centering
@@ -616,6 +641,12 @@ Overall service explains 89.9\% variance in customer satisfaction.
 \caption{Anova - H3}
 \end{figure}
 
+\begin{figure}[H]
+\centering
+\includegraphics[scale=1]{h3.png}
+\caption{Coefficients - H3}
+\end{figure}
+
 \newpage
 \par \textbf{H4 - Customer satisfaction has a positive influence on customer loyalty.}\\
 \begin{figure}[H]
@@ -629,8 +660,15 @@ Overall service explains 89.9\% variance in customer satisfaction.
 \caption{Anova - H4}
 \end{figure}
 
+\begin{figure}[H]
+\centering
+\includegraphics[scale=1]{h4.png}
+\caption{Coefficients - H4}
+\end{figure}
+
 Customer satisfaction and loyalty are postively correlated. This indicates a satisfied customer will be more loyal to the bank and spreads word of mouth. H4 is accepted.Customer satisfaction influences 14.8\% of variance in loyalty.
 
+\newpage
 \subsection{CUSTOMER SATISFACTION INDEX}
 The American Customer Satisfaction Index (ACSI) is an economic indicator that measures the satisfaction of consumers across the U.S. economy. It is produced by the American Customer Satisfaction Index (ACSI LLC) based in Ann Arbor, Michigan.
 
@@ -680,7 +718,7 @@ Rating & count \\
 \hline
 \end{tabular}
 \caption{Ratings distribution}
-\end{table}{H}
+\end{table}
 \begin{figure}[H]
 \centering
 \includegraphics[scale=1]{ratings_distribution.png}
@@ -751,6 +789,9 @@ The data collected from customers of State Bank of India across the major cities
 
 %conclusion
 \newpage
+\begin{center}
+\textbf{\large CHAPTER 5}
+\end{center}
 \section{CONCLUSION}
 \subsection{FINDINGS}
 The data analyses reveal that merger of State Bank of India with its associate banks has not made much negative impact on its customers. Psychological Contract Breach, Customer Satisfaction and Loyalty is medium while service performance is low.
@@ -783,6 +824,9 @@ During response collection it was found that, many of the people preferred priva
 % appendix
 
 \newpage
+\begin{center}
+\textbf{\large CHAPTER 6}
+\end{center}
 \section{APPENDIX}
 \subsection{SURVEY QUESTIONNAIRE}
 \emph{Dear Sir / Madam, I am a second year MBA student from Anna University, Chennai. We are conducting this survey to know about customer satisfaction and loyalty after merger of associate banks of SBI with itself. There is no right or wrong answer. Please read the statements carefully and answer. All the data will be kept confidential. It will be used only for educational and research purposes only. None of the data will be disclosed.}\\
