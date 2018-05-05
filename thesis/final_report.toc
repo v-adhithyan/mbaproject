@@ -15,32 +15,32 @@
 \contentsline {subsubsection}{\numberline {1.5.2}SECONDARY OBJECTIVE}{6}{subsubsection.1.5.2}
 \contentsline {subsection}{\numberline {1.6}HYPOTHESIS}{7}{subsection.1.6}
 \contentsline {section}{\numberline {2}LITERATURE REVIEW}{8}{section.2}
-\contentsline {subsection}{\numberline {2.1}MERGERS \& ACQUISITIONS IN BANKS}{8}{subsection.2.1}
-\contentsline {subsection}{\numberline {2.2}PSYCHOLOGICAL CONTRACT VIOLATION}{8}{subsection.2.2}
-\contentsline {subsection}{\numberline {2.3}CUSTOMER SATISFACTION}{9}{subsection.2.3}
-\contentsline {subsection}{\numberline {2.4}LOYALTY}{10}{subsection.2.4}
-\contentsline {subsection}{\numberline {2.5}SENTIMENT ANALYSIS}{10}{subsection.2.5}
-\contentsline {subsection}{\numberline {2.6}RESEARCH GAP}{10}{subsection.2.6}
-\contentsline {subsection}{\numberline {2.7}PROPOSED MODEL}{11}{subsection.2.7}
-\contentsline {section}{\numberline {3}METHODOLOGY}{12}{section.3}
-\contentsline {subsection}{\numberline {3.1}RESEARCH DESIGN}{12}{subsection.3.1}
-\contentsline {subsection}{\numberline {3.2}DATA COLLECTION}{12}{subsection.3.2}
-\contentsline {subsection}{\numberline {3.3}SAMPLING TECHNIQUE}{12}{subsection.3.3}
-\contentsline {subsection}{\numberline {3.4}PRIMARY DATA}{12}{subsection.3.4}
+\contentsline {subsection}{\numberline {2.1}PSYCHOLOGICAL CONTRACT VIOLATION}{8}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}CUSTOMER SATISFACTION}{9}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}LOYALTY}{9}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}SENTIMENT ANALYSIS}{10}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}RESEARCH GAP}{10}{subsection.2.5}
+\contentsline {subsection}{\numberline {2.6}PROPOSED MODEL}{10}{subsection.2.6}
+\contentsline {section}{\numberline {3}METHODOLOGY}{11}{section.3}
+\contentsline {subsection}{\numberline {3.1}RESEARCH DESIGN}{11}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}DATA COLLECTION}{11}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}SAMPLING TECHNIQUE}{11}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}PRIMARY DATA}{11}{subsection.3.4}
 \contentsline {subsection}{\numberline {3.5}SECONDARY DATA}{12}{subsection.3.5}
-\contentsline {subsection}{\numberline {3.6}INSTRUMENT}{13}{subsection.3.6}
-\contentsline {subsection}{\numberline {3.7}DATA PREPARATION}{13}{subsection.3.7}
-\contentsline {subsection}{\numberline {3.8}TECHNIQUES USED}{13}{subsection.3.8}
+\contentsline {subsection}{\numberline {3.6}INSTRUMENT}{12}{subsection.3.6}
+\contentsline {subsection}{\numberline {3.7}DATA PREPARATION}{12}{subsection.3.7}
+\contentsline {subsection}{\numberline {3.8}TECHNIQUES USED}{12}{subsection.3.8}
 \contentsline {subsection}{\numberline {3.9}LIMITATIONS}{13}{subsection.3.9}
-\contentsline {subsection}{\numberline {3.10}SUMMARY}{14}{subsection.3.10}
-\contentsline {section}{\numberline {4}DATA ANALYSIS}{15}{section.4}
-\contentsline {subsection}{\numberline {4.1}INTRODUCTION}{15}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}SCALE RELIABLITY}{15}{subsection.4.2}
-\contentsline {subsection}{\numberline {4.3}DEMOGRAPHICS}{15}{subsection.4.3}
-\contentsline {subsubsection}{\numberline {4.3.1}ACCOUNT OPENING TIMELINE}{16}{subsubsection.4.3.1}
-\contentsline {subsubsection}{\numberline {4.3.2}LOCATION}{16}{subsubsection.4.3.2}
-\contentsline {subsection}{\numberline {4.4}DESCRIPTIVE STATISTICS}{17}{subsection.4.4}
-\contentsline {subsection}{\numberline {4.5}INDIVIDUAL INTERPRETATION}{18}{subsection.4.5}
+\contentsline {subsection}{\numberline {3.10}SUMMARY}{13}{subsection.3.10}
+\contentsline {section}{\numberline {4}DATA ANALYSIS}{14}{section.4}
+\contentsline {subsection}{\numberline {4.1}INTRODUCTION}{14}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}SCALE RELIABLITY}{14}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}DEMOGRAPHICS}{14}{subsection.4.3}
+\contentsline {subsubsection}{\numberline {4.3.1}ACCOUNT OPENING TIMELINE}{15}{subsubsection.4.3.1}
+\contentsline {subsubsection}{\numberline {4.3.2}LOCATION}{15}{subsubsection.4.3.2}
+\contentsline {subsection}{\numberline {4.4}DESCRIPTIVE STATISTICS}{16}{subsection.4.4}
+\contentsline {subsubsection}{\numberline {4.4.1}INFERENCE}{16}{subsubsection.4.4.1}
+\contentsline {subsection}{\numberline {4.5}INDIVIDUAL INTERPRETATION}{17}{subsection.4.5}
 \contentsline {subsection}{\numberline {4.6}REGRESSION ANALYSIS}{20}{subsection.4.6}
 \contentsline {subsection}{\numberline {4.7}CUSTOMER SATISFACTION INDEX}{25}{subsection.4.7}
 \contentsline {subsection}{\numberline {4.8}CUSTOMER SATISFACTION INDEX CALCULATION}{25}{subsection.4.8}
