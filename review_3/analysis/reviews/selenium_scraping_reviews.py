@@ -22,23 +22,19 @@ urls = [
     ]
 
 fields = ["date", "reviews", "star"]
-data = []    
+data = []
 for url in urls:
     browser.get(url)
-    
+
     reviews = browser.find_elements_by_xpath("//div[@class='more reviewdata']")
     dates = browser.find_elements_by_xpath("//p[@class='rating']")
     read_more = browser.find_elements_by_xpath("//a[contains(text(), 'Read More')]")
-    
-    #print dir(dates[0])
-    #print len(dates[0].find_elements_by_class_name('rated-star'))
-    #print len(dates[0].find_elements_by_xpath("//i[@class='icon-rating rated-star']"))
     
     #expand all reviews
     for r in read_more:
         r.click()
         time.sleep(random.randint(2, 4))
-    
+
     i = 0
     for review in reviews:
         try:
@@ -51,12 +47,12 @@ for url in urls:
                 date = date.split("AM")[0]
             elif "PM" in date:
                 date = date.split("PM")[0]
-        
+
             rating = str(len(dates[i].find_elements_by_class_name('rated-star')))
             print text
             print date
             print rating
-        
+
             row = {}
             row[fields[0]] = date
             row[fields[1]] = text
@@ -67,11 +63,11 @@ for url in urls:
         finally:
             print "in finally increment i"
             i = i + 1
-    
+
     print "Scraped a page.. going to sleep"
-    time.sleep(random.randint(10, 15))    
+    time.sleep(random.randint(10, 15))
     print "Wake from sleep"
-    
+
 browser.quit()
 
 print "writing to file"

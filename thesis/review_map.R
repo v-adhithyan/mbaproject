@@ -16,15 +16,15 @@ docs <- tm_map(docs, removeWords, stopwords("english"))
 # specify your stopwords as a character vector
 docs <- tm_map(docs, removeWords, 
                c("bank", "account", "banking", "state", 
-                  "service", "will", "branch", "customer", 
-                  "one", "sbt", "kerela",
-                  "fast", "thanks", "without", 
-                  "information", "facility", "make", "members", 
-                  "hello", "give",
-                  "gives", "gave", "call", "asked", "called",
-                  "getting", "giving", "jaipur", "travancore", 
-                  "can", "patiala",
-                  "also", "banks", "card")) 
+                 "service", "will", "branch", "customer", 
+                 "one", "sbt", "kerela",
+                 "fast", "thanks", "without", 
+                 "information", "facility", "make", "members", 
+                 "hello", "give",
+                 "gives", "gave", "call", "asked", "called",
+                 "getting", "giving", "jaipur", "travancore", 
+                 "can", "patiala",
+                 "also", "banks", "card")) 
 # Remove punctuations
 docs <- tm_map(docs, removePunctuation)
 # Eliminate extra white spaces

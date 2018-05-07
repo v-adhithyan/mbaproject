@@ -37,7 +37,6 @@ for url in urls:
     stars = soup.find_all("div", {"class": star_element})
     next = soup.find_all("li", {"class": next_element})
 
-    #print next.find("a").get("href")
     for review in reviews:
         try:
             r = review.get_text().encode("ascii",  "ignore")
